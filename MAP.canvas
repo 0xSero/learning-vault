@@ -1,0 +1,295 @@
+{
+ "nodes": [
+  {
+   "id": "b033a605b10c4415",
+   "type": "file",
+   "file": "LEARNING.md",
+   "x": 850,
+   "y": -340,
+   "width": 420,
+   "height": 220,
+   "color": "3"
+  },
+  {
+   "id": "75fd5f23a7d24867",
+   "type": "group",
+   "label": "01 \u00b7 Primitives \u2014 the building blocks",
+   "x": 0,
+   "y": 0,
+   "width": 680,
+   "height": 680,
+   "color": "6"
+  },
+  {
+   "id": "d9c00da28b444674",
+   "type": "group",
+   "label": "02 \u00b7 Research \u2014 the deep dives",
+   "x": 720,
+   "y": 0,
+   "width": 680,
+   "height": 680,
+   "color": "1"
+  },
+  {
+   "id": "f4896820150f4d93",
+   "type": "group",
+   "label": "03 \u00b7 Applied \u2014 the practice",
+   "x": 1440,
+   "y": 0,
+   "width": 680,
+   "height": 680,
+   "color": "4"
+  },
+  {
+   "id": "c1bba6cd06304375",
+   "type": "group",
+   "label": "04 \u00b7 Sources \u2014 the anchors",
+   "x": 2160,
+   "y": 0,
+   "width": 680,
+   "height": 680,
+   "color": "5"
+  },
+  {
+   "id": "c8b291b3ede94310",
+   "type": "file",
+   "file": "01-primitives/Red Letter Bible.md",
+   "x": 20,
+   "y": 40,
+   "width": 300,
+   "height": 140
+  },
+  {
+   "id": "c08a7884d4114b20",
+   "type": "file",
+   "file": "01-primitives/I Am Formula.md",
+   "x": 340,
+   "y": 40,
+   "width": 300,
+   "height": 140
+  },
+  {
+   "id": "2717092e18dc499c",
+   "type": "file",
+   "file": "01-primitives/Son of Man.md",
+   "x": 20,
+   "y": 200,
+   "width": 300,
+   "height": 140
+  },
+  {
+   "id": "5ca9bc730e264b72",
+   "type": "file",
+   "file": "01-primitives/Theophany.md",
+   "x": 340,
+   "y": 200,
+   "width": 300,
+   "height": 140
+  },
+  {
+   "id": "9538ebfc8eee4796",
+   "type": "file",
+   "file": "01-primitives/Typology.md",
+   "x": 20,
+   "y": 360,
+   "width": 300,
+   "height": 140
+  },
+  {
+   "id": "b335b65614b64b4e",
+   "type": "file",
+   "file": "01-primitives/Two Times.md",
+   "x": 340,
+   "y": 360,
+   "width": 300,
+   "height": 140
+  },
+  {
+   "id": "88a55d441893484d",
+   "type": "file",
+   "file": "01-primitives/Progressive Disclosure.md",
+   "x": 20,
+   "y": 520,
+   "width": 300,
+   "height": 140
+  },
+  {
+   "id": "489b74e03a4e4e3b",
+   "type": "file",
+   "file": "02-research/Thread of God.md",
+   "x": 740,
+   "y": 40,
+   "width": 300,
+   "height": 140
+  },
+  {
+   "id": "b3fd5afa1aa44a6c",
+   "type": "file",
+   "file": "02-research/The Sacrifice Thread.md",
+   "x": 1060,
+   "y": 40,
+   "width": 300,
+   "height": 140
+  },
+  {
+   "id": "ded35bb506e942b1",
+   "type": "file",
+   "file": "02-research/John 8:40.md",
+   "x": 740,
+   "y": 200,
+   "width": 300,
+   "height": 140
+  },
+  {
+   "id": "9785f39ee48d4d11",
+   "type": "file",
+   "file": "02-research/Corpus Anatomy.md",
+   "x": 1060,
+   "y": 200,
+   "width": 300,
+   "height": 140
+  },
+  {
+   "id": "806fd96a57d14d89",
+   "type": "file",
+   "file": "02-research/Methodism.md",
+   "x": 740,
+   "y": 360,
+   "width": 300,
+   "height": 140
+  },
+  {
+   "id": "859ecb45ea2e4299",
+   "type": "file",
+   "file": "02-research/The 23-Second Probe.md",
+   "x": 1060,
+   "y": 360,
+   "width": 300,
+   "height": 140
+  },
+  {
+   "id": "f13b1576176143b0",
+   "type": "file",
+   "file": "03-applied/Study Plan.md",
+   "x": 1460,
+   "y": 40,
+   "width": 300,
+   "height": 140
+  },
+  {
+   "id": "6595f4af306f4397",
+   "type": "file",
+   "file": "03-applied/Devotional Threads.md",
+   "x": 1780,
+   "y": 40,
+   "width": 300,
+   "height": 140
+  },
+  {
+   "id": "828e265b89524efc",
+   "type": "file",
+   "file": "03-applied/The Corpus Method.md",
+   "x": 1460,
+   "y": 200,
+   "width": 300,
+   "height": 140
+  },
+  {
+   "id": "5447908d07374bdd",
+   "type": "file",
+   "file": "03-applied/The Adversary Method.md",
+   "x": 1780,
+   "y": 200,
+   "width": 300,
+   "height": 140
+  },
+  {
+   "id": "260da702f4154732",
+   "type": "file",
+   "file": "04-sources/Self Reference Catalog.md",
+   "x": 2180,
+   "y": 40,
+   "width": 300,
+   "height": 140
+  },
+  {
+   "id": "72666797638c4f75",
+   "type": "file",
+   "file": "04-sources/Source Index.md",
+   "x": 2500,
+   "y": 40,
+   "width": 300,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "0ddc7b26dc8947af",
+   "fromNode": "b033a605b10c4415",
+   "toNode": "75fd5f23a7d24867"
+  },
+  {
+   "id": "13c1a47dc51c47bb",
+   "fromNode": "b033a605b10c4415",
+   "toNode": "d9c00da28b444674"
+  },
+  {
+   "id": "90f136d9812b4493",
+   "fromNode": "b033a605b10c4415",
+   "toNode": "f4896820150f4d93"
+  },
+  {
+   "id": "aabb2fba18b343b2",
+   "fromNode": "b033a605b10c4415",
+   "toNode": "c1bba6cd06304375"
+  },
+  {
+   "id": "cd2a380cb5974cb1",
+   "fromNode": "489b74e03a4e4e3b",
+   "toNode": "b3fd5afa1aa44a6c",
+   "label": "runs inside"
+  },
+  {
+   "id": "6b9864ae30264b55",
+   "fromNode": "b3fd5afa1aa44a6c",
+   "toNode": "9538ebfc8eee4796",
+   "label": "uses"
+  },
+  {
+   "id": "28e3055c76af4c56",
+   "fromNode": "9785f39ee48d4d11",
+   "toNode": "260da702f4154732",
+   "label": "ports to"
+  },
+  {
+   "id": "7b94fa45c55f464b",
+   "fromNode": "2717092e18dc499c",
+   "toNode": "489b74e03a4e4e3b",
+   "label": "phase 5"
+  },
+  {
+   "id": "3ce0f973b7774636",
+   "fromNode": "f13b1576176143b0",
+   "toNode": "260da702f4154732",
+   "label": "reads"
+  },
+  {
+   "id": "6e5e1f20a7bf47b8",
+   "fromNode": "828e265b89524efc",
+   "toNode": "9785f39ee48d4d11",
+   "label": "built"
+  },
+  {
+   "id": "604c12ad10c14840",
+   "fromNode": "5447908d07374bdd",
+   "toNode": "b3fd5afa1aa44a6c",
+   "label": "stress-tested"
+  },
+  {
+   "id": "3e90c05783cd4435",
+   "fromNode": "260da702f4154732",
+   "toNode": "9785f39ee48d4d11",
+   "label": "raw data for"
+  }
+ ]
+}

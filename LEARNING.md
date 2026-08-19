@@ -1,6 +1,7 @@
 ---
 title: Learning Vault — Home
 date: 2026-08-19
+layer: home
 tags:
   - moc
   - home
@@ -20,6 +21,10 @@ A progressive-disclosure wiki of what this agent taught in the session of 2026-0
 > Navigate: start at the layer that matches your question. Primitives for vocabulary, Research for the deep dives, Applied for doing things with it.
 
 ## The map
+
+> [!tip] Two ways to see the whole vault
+> - **[[MAP]]** — a canvas: the home note, the four layers as groups, every note as a node, the key cross-layer edges (what runs inside what, what ports to what, what was stress-tested by what).
+> - **[[Wiki]]** — a Base: a queryable table of every note, grouped by layer, with the research and applied views split out.
 
 ### 01 — Primitives (building blocks)
 The vocabulary. Read these first if a research note uses a word you don't know.
@@ -65,9 +70,10 @@ What you do with the material.
 
 ## Structure notes
 
-- This vault sits on git. The wiki content lives on the **`learning`** branch (checked out); `main` holds the scaffold.
+- **[[MAP]]** and **[[Wiki]]** are the visual index and the queryable index of this vault. The canvas is the survey; the Base is the drill-down.
+- This vault sits on git. The wiki content lives on the **`learning`** branch (checked out); `main` holds the scaffold. Remote: `github.com/0xSero/learning-vault` (learning is the default branch).
 - `skills/` contains the [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) reference set — the conventions this vault's markdown follows (wikilinks, callouts, properties, embeds).
-- The learning branch is local-only. There is no remote for it; nothing here is pushed anywhere.
+- The thread-of-God canvas (`02-research/Thread of God.canvas`) is the eight phases as a visual, with the corpus counts on each phase.
 
 > [!tip] The one rule
 > A count proves frequency, not meaning. Every claim in this vault should be one click away from the verses behind it. If a page states something you can't verify in thirty seconds, the page is broken.

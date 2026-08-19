@@ -1,0 +1,44 @@
+filters:
+  or:
+    - 'file.hasTag("layer/primitives")'
+    - 'file.hasTag("layer/research")'
+    - 'file.hasTag("layer/applied")'
+    - 'file.hasTag("layer/sources")'
+    - 'file.hasTag("moc")'
+properties:
+  layer:
+    displayName: "Layer"
+  title:
+    displayName: "Title"
+  date:
+    displayName: "Date"
+views:
+  - type: table
+    name: "All notes (by layer)"
+    groupBy:
+      property: layer
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - date
+      - file.tags
+  - type: table
+    name: "Research deep dives"
+    filters: 'layer == "research"'
+    order:
+      - file.name
+      - title
+      - date
+  - type: table
+    name: "Applied practice"
+    filters: 'layer == "applied"'
+    order:
+      - file.name
+      - title
+  - type: cards
+    name: "Sources & data"
+    filters: 'layer == "sources"'
+    order:
+      - file.name
+      - title

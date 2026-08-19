@@ -1,6 +1,7 @@
 ---
 title: The Adversary Method
 date: 2026-08-19
+layer: applied
 tags:
   - layer/applied
   - method

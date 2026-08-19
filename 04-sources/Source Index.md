@@ -1,6 +1,7 @@
 ---
 title: Source Index
 date: 2026-08-19
+layer: sources
 tags:
   - layer/sources
   - references

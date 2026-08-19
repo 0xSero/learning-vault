@@ -1,6 +1,7 @@
 ---
 title: Progressive Disclosure
 date: 2026-08-19
+layer: primitives
 tags:
   - layer/primitives
   - meta

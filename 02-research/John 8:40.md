@@ -1,6 +1,7 @@
 ---
 title: John 8:40
 date: 2026-08-19
+layer: research
 tags:
   - layer/research
   - close-reading

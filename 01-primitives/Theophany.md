@@ -1,6 +1,7 @@
 ---
 title: Theophany
 date: 2026-08-19
+layer: primitives
 tags:
   - layer/primitives
   - thread-of-god

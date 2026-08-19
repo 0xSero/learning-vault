@@ -1,0 +1,193 @@
+{
+ "nodes": [
+  {
+   "id": "d9aa9bc587d54b7f",
+   "type": "text",
+   "text": "# THE THREAD OF GOD\n\nself-revelation in eight phases \u00b7 shape of speech at each step",
+   "x": 660,
+   "y": -280,
+   "width": 1000,
+   "height": 120,
+   "color": "6"
+  },
+  {
+   "id": "99a3cc1f107d4109",
+   "type": "text",
+   "text": "**1 \u00b7 THE VOICE**\n\n*creative speech*\n\nGen 1:1 \u2014 reality is a word\nPs 19:1 \u2014 the heavens declare",
+   "x": 0,
+   "y": 0,
+   "width": 280,
+   "height": 220
+  },
+  {
+   "id": "831b5b8c60734d3d",
+   "type": "text",
+   "text": "**2 \u00b7 FACE-TO-FACE**\n\n*personal voice \u2192 law*\n\nEx 33:11 \u00b7 Deut 5:27\nTorah: 1,109 sayings\nthe tabernacle: kavod",
+   "x": 330,
+   "y": 0,
+   "width": 280,
+   "height": 220,
+   "color": "2"
+  },
+  {
+   "id": "728b302963f14f18",
+   "type": "text",
+   "text": "**3 \u00b7 THE PROPHET**\n\n*\u201cThus saith the LORD\u201d*\n\n3,224 sayings (60%)\nJer 1,030 \u00b7 Ez 792 \u00b7 Is 789\n\u201cI am the LORD\u201d \u00d7101 \u2014 Ez 58",
+   "x": 660,
+   "y": 0,
+   "width": 280,
+   "height": 220,
+   "color": "1"
+  },
+  {
+   "id": "f5f8a824abc94500",
+   "type": "text",
+   "text": "**4 \u00b7 THE SILENCE**\n\n*kairos waiting*\n\n~400 years\nMalachi \u2192 the Gospels\nthe line goes quiet",
+   "x": 990,
+   "y": 0,
+   "width": 280,
+   "height": 220,
+   "color": "3"
+  },
+  {
+   "id": "bda38e6dad934977",
+   "type": "text",
+   "text": "**5 \u00b7 THE FLESH**\n\n*the Word, a person*\n\nJohn 1:14 \u00b7 14:9\n2,029 red-letter sayings\n\u201cI am\u201d \u00d782",
+   "x": 1320,
+   "y": 0,
+   "width": 280,
+   "height": 220,
+   "color": "5"
+  },
+  {
+   "id": "70bbaa5c71de4631",
+   "type": "text",
+   "text": "**6 \u00b7 THE GIFT**\n\n*cross, resurrection, Pentecost*\n\nJohn 6:51 \u2014 flesh for the\nlife of the world\nlaw on the heart; spirit within",
+   "x": 1650,
+   "y": 0,
+   "width": 280,
+   "height": 220,
+   "color": "1"
+  },
+  {
+   "id": "ba606fc9edaf4f4f",
+   "type": "text",
+   "text": "**7 \u00b7 THE RISEN VOICE**\n\n*the Son keeps speaking*\n\nHeb 1:2 \u00b7 Acts 9, 22, 26\nRev: 31 \u201cAlpha and Omega\u201d sayings",
+   "x": 1980,
+   "y": 0,
+   "width": 280,
+   "height": 220,
+   "color": "5"
+  },
+  {
+   "id": "5af296b46581408a",
+   "type": "text",
+   "text": "**8 \u00b7 THE FACE**\n\n*communion*\n\nRev 21:3 \u00b7 22:4\nthe word ends in face-to-face\nthe arc closes",
+   "x": 2310,
+   "y": 0,
+   "width": 280,
+   "height": 220,
+   "color": "4"
+  },
+  {
+   "id": "09f488931c0b4045",
+   "type": "text",
+   "text": "**THE ARC**\n\nvoice \u2192 law \u2192 prophet \u2192 silence \u2192 person \u2192 spirit \u2192 face\n\nthe same question at every phase: *who is God?* \u2014 answered by a name, then stamps, then a person, then a face",
+   "x": 660,
+   "y": 320,
+   "width": 1000,
+   "height": 140,
+   "color": "3"
+  },
+  {
+   "id": "fd926dde99164918",
+   "type": "file",
+   "file": "02-research/Thread of God.md",
+   "x": 0,
+   "y": 320,
+   "width": 300,
+   "height": 150
+  },
+  {
+   "id": "6296fdf6e0784987",
+   "type": "file",
+   "file": "02-research/The Sacrifice Thread.md",
+   "x": 2520,
+   "y": 320,
+   "width": 300,
+   "height": 150
+  },
+  {
+   "id": "89182421ff194620",
+   "type": "file",
+   "file": "02-research/Corpus Anatomy.md",
+   "x": 2520,
+   "y": 500,
+   "width": 300,
+   "height": 150
+  }
+ ],
+ "edges": [
+  {
+   "id": "05e6443f69b54c11",
+   "fromNode": "99a3cc1f107d4109",
+   "toNode": "831b5b8c60734d3d"
+  },
+  {
+   "id": "b40e4c6105bf49f5",
+   "fromNode": "831b5b8c60734d3d",
+   "toNode": "728b302963f14f18"
+  },
+  {
+   "id": "cd37a478ab474646",
+   "fromNode": "728b302963f14f18",
+   "toNode": "f5f8a824abc94500"
+  },
+  {
+   "id": "ea70a99e807941d2",
+   "fromNode": "f5f8a824abc94500",
+   "toNode": "bda38e6dad934977"
+  },
+  {
+   "id": "c3f5b796222b45c4",
+   "fromNode": "bda38e6dad934977",
+   "toNode": "70bbaa5c71de4631"
+  },
+  {
+   "id": "5b3fb689625943be",
+   "fromNode": "70bbaa5c71de4631",
+   "toNode": "ba606fc9edaf4f4f"
+  },
+  {
+   "id": "ec41f44f66474ad7",
+   "fromNode": "ba606fc9edaf4f4f",
+   "toNode": "5af296b46581408a"
+  },
+  {
+   "id": "c2332421eac847a6",
+   "fromNode": "fd926dde99164918",
+   "toNode": "09f488931c0b4045",
+   "label": "the full argument"
+  },
+  {
+   "id": "e029965ea1364c01",
+   "fromNode": "09f488931c0b4045",
+   "toNode": "6296fdf6e0784987",
+   "label": "the thread inside the thread"
+  },
+  {
+   "id": "aed193e664484954",
+   "fromNode": "70bbaa5c71de4631",
+   "toNode": "6296fdf6e0784987",
+   "label": "expanded in",
+   "color": "1"
+  },
+  {
+   "id": "f603edd3b84740c5",
+   "fromNode": "09f488931c0b4045",
+   "toNode": "89182421ff194620",
+   "label": "the data",
+   "color": "5"
+  }
+ ]
+}

@@ -1,6 +1,7 @@
 ---
 title: Devotional Threads
 date: 2026-08-19
+layer: applied
 tags:
   - layer/applied
   - practice

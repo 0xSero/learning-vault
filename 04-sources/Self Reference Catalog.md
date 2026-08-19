@@ -1,6 +1,7 @@
 ---
 title: Self Reference Catalog
 date: 2026-08-19
+layer: sources
 tags:
   - layer/sources
   - corpus

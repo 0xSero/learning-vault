@@ -1,6 +1,7 @@
 ---
 title: The 23-Second Probe
 date: 2026-08-19
+layer: research
 tags:
   - layer/research
   - epistemology

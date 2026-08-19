@@ -1,6 +1,7 @@
 ---
 title: I Am Formula
 date: 2026-08-19
+layer: primitives
 tags:
   - layer/primitives
   - corpus

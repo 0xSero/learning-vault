@@ -1,6 +1,7 @@
 ---
 title: Thread of God
 date: 2026-08-19
+layer: research
 tags:
   - layer/research
   - thread-of-god

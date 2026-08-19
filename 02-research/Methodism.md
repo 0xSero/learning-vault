@@ -1,6 +1,7 @@
 ---
 title: Methodism
 date: 2026-08-19
+layer: research
 tags:
   - layer/research
   - denomination
