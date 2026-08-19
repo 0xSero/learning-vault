@@ -1,0 +1,667 @@
+---
+title: Self Reference Catalog
+date: 2026-08-19
+tags:
+  - layer/sources
+  - corpus
+  - data
+aliases:
+  - The 604
+  - Jesus self-reference catalog
+---
+
+# Self Reference Catalog
+
+> [!abstract] TL;DR
+> The ported data: all **604** sayings in which Jesus speaks about himself, full text (KJV), in canonical order, grouped by book. Sayings containing "I am" are flagged with **◈**. This is the raw material for the [[Study Plan]] and the [[Devotional Threads]] — every claim in this vault that cites a self-reference should be verifiable here in thirty seconds.
+>
+> **Status: curated judgment** (not authoritative). The selection rule and exclusions are stated in [[Corpus Anatomy]]. Each saying links to its verse in context at Bible Gateway.
+
+- **Total:** 604 sayings · 82 ◈ "I am" declarations
+- **By book:** Matthew 122 · Mark 60 · Luke 108 · John 263 · Acts 17 · 1 Corinthians 2 · 2 Corinthians 1 · Revelation 31
+- **Upstream:** [live site](https://0xsero.github.io/bible-quotes-wiki/self-references.html) · [repo](https://github.com/0xSero/bible-quotes-wiki) · local `~/.local-studio/bible-quotes-wiki/`
+
+---
+
+## Matthew (122 sayings, 12 ◈)
+
+- [Matthew 4:19](https://www.biblegateway.com/passage/?search=Matthew+4:19&version=KJV) — Follow me, and I will make you fishers of men.
+- [Matthew 5:11](https://www.biblegateway.com/passage/?search=Matthew+5:11&version=KJV) — Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.
+- ◈ [Matthew 5:17](https://www.biblegateway.com/passage/?search=Matthew+5:17&version=KJV) — Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
+- [Matthew 7:21](https://www.biblegateway.com/passage/?search=Matthew+7:21&version=KJV) — Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.
+- [Matthew 7:22](https://www.biblegateway.com/passage/?search=Matthew+7:22&version=KJV) — Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?
+- [Matthew 7:23](https://www.biblegateway.com/passage/?search=Matthew+7:23&version=KJV) — And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
+- [Matthew 7:24](https://www.biblegateway.com/passage/?search=Matthew+7:24&version=KJV) — Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:
+- [Matthew 7:26](https://www.biblegateway.com/passage/?search=Matthew+7:26&version=KJV) — And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:
+- [Matthew 8:20](https://www.biblegateway.com/passage/?search=Matthew+8:20&version=KJV) — The foxes have holes, and the birds of the air have nests; but the Son of man hath not where to lay his head.
+- [Matthew 8:22](https://www.biblegateway.com/passage/?search=Matthew+8:22&version=KJV) — Follow me; and let the dead bury their dead.
+- [Matthew 9:6](https://www.biblegateway.com/passage/?search=Matthew+9:6&version=KJV) — But that ye may know that the Son of man hath power on earth to forgive sins, Arise, take up thy bed, and go unto thine house.
+- [Matthew 9:9](https://www.biblegateway.com/passage/?search=Matthew+9:9&version=KJV) — Follow me.
+- ◈ [Matthew 9:13](https://www.biblegateway.com/passage/?search=Matthew+9:13&version=KJV) — But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.
+- ◈ [Matthew 9:28](https://www.biblegateway.com/passage/?search=Matthew+9:28&version=KJV) — Believe ye that I am able to do this?
+- [Matthew 10:18](https://www.biblegateway.com/passage/?search=Matthew+10:18&version=KJV) — And ye shall be brought before governors and kings for my sake, for a testimony against them and the Gentiles.
+- [Matthew 10:22](https://www.biblegateway.com/passage/?search=Matthew+10:22&version=KJV) — And ye shall be hated of all men for my name’s sake: but he that endureth to the end shall be saved.
+- [Matthew 10:23](https://www.biblegateway.com/passage/?search=Matthew+10:23&version=KJV) — But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come.
+- [Matthew 10:32](https://www.biblegateway.com/passage/?search=Matthew+10:32&version=KJV) — Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven.
+- [Matthew 10:33](https://www.biblegateway.com/passage/?search=Matthew+10:33&version=KJV) — But whosoever shall deny me before men, him will I also deny before my Father which is in heaven.
+- ◈ [Matthew 10:34](https://www.biblegateway.com/passage/?search=Matthew+10:34&version=KJV) — Think not that I am come to send peace on earth: I came not to send peace, but a sword.
+- ◈ [Matthew 10:35](https://www.biblegateway.com/passage/?search=Matthew+10:35&version=KJV) — For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.
+- [Matthew 10:37](https://www.biblegateway.com/passage/?search=Matthew+10:37&version=KJV) — He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me.
+- [Matthew 10:38](https://www.biblegateway.com/passage/?search=Matthew+10:38&version=KJV) — And he that taketh not his cross, and followeth after me, is not worthy of me.
+- [Matthew 10:39](https://www.biblegateway.com/passage/?search=Matthew+10:39&version=KJV) — He that findeth his life shall lose it: and he that loseth his life for my sake shall find it.
+- [Matthew 10:40](https://www.biblegateway.com/passage/?search=Matthew+10:40&version=KJV) — He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.
+- [Matthew 11:6](https://www.biblegateway.com/passage/?search=Matthew+11:6&version=KJV) — And blessed is he, whosoever shall not be offended in me.
+- [Matthew 11:19](https://www.biblegateway.com/passage/?search=Matthew+11:19&version=KJV) — The Son of man came eating and drinking, and they say, Behold a man gluttonous, and a winebibber, a friend of publicans and sinners. But wisdom is justified of her children.
+- [Matthew 11:27](https://www.biblegateway.com/passage/?search=Matthew+11:27&version=KJV) — All things are delivered unto me of my Father: and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and he to whomsoever the Son will reveal him.
+- [Matthew 11:28](https://www.biblegateway.com/passage/?search=Matthew+11:28&version=KJV) — Come unto me, all ye that labour and are heavy laden, and I will give you rest.
+- ◈ [Matthew 11:29](https://www.biblegateway.com/passage/?search=Matthew+11:29&version=KJV) — Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.
+- [Matthew 11:30](https://www.biblegateway.com/passage/?search=Matthew+11:30&version=KJV) — For my yoke is easy, and my burden is light.
+- [Matthew 12:8](https://www.biblegateway.com/passage/?search=Matthew+12:8&version=KJV) — For the Son of man is Lord even of the sabbath day.
+- [Matthew 12:30](https://www.biblegateway.com/passage/?search=Matthew+12:30&version=KJV) — He that is not with me is against me; and he that gathereth not with me scattereth abroad.
+- [Matthew 12:32](https://www.biblegateway.com/passage/?search=Matthew+12:32&version=KJV) — And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the world to come.
+- [Matthew 12:40](https://www.biblegateway.com/passage/?search=Matthew+12:40&version=KJV) — For as Jonas was three days and three nights in the whale’s belly; so shall the Son of man be three days and three nights in the heart of the earth.
+- [Matthew 12:48](https://www.biblegateway.com/passage/?search=Matthew+12:48&version=KJV) — Who is my mother? and who are my brethren?
+- [Matthew 12:49](https://www.biblegateway.com/passage/?search=Matthew+12:49&version=KJV) — Behold my mother and my brethren!
+- [Matthew 12:50](https://www.biblegateway.com/passage/?search=Matthew+12:50&version=KJV) — For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother.
+- [Matthew 13:37](https://www.biblegateway.com/passage/?search=Matthew+13:37&version=KJV) — He that soweth the good seed is the Son of man;
+- [Matthew 13:41](https://www.biblegateway.com/passage/?search=Matthew+13:41&version=KJV) — The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;
+- [Matthew 14:18](https://www.biblegateway.com/passage/?search=Matthew+14:18&version=KJV) — Bring them hither to me.
+- [Matthew 15:8](https://www.biblegateway.com/passage/?search=Matthew+15:8&version=KJV) — This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me.
+- [Matthew 15:9](https://www.biblegateway.com/passage/?search=Matthew+15:9&version=KJV) — But in vain they do worship me, teaching for doctrines the commandments of men.
+- ◈ [Matthew 15:24](https://www.biblegateway.com/passage/?search=Matthew+15:24&version=KJV) — I am not sent but unto the lost sheep of the house of Israel.
+- [Matthew 16:13](https://www.biblegateway.com/passage/?search=Matthew+16:13&version=KJV) — Whom do men say that I the Son of man am?
+- ◈ [Matthew 16:15](https://www.biblegateway.com/passage/?search=Matthew+16:15&version=KJV) — But whom say ye that I am?
+- [Matthew 16:18](https://www.biblegateway.com/passage/?search=Matthew+16:18&version=KJV) — And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.
+- [Matthew 16:23](https://www.biblegateway.com/passage/?search=Matthew+16:23&version=KJV) — Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men.
+- [Matthew 16:24](https://www.biblegateway.com/passage/?search=Matthew+16:24&version=KJV) — If any man will come after me, let him deny himself, and take up his cross, and follow me.
+- [Matthew 16:25](https://www.biblegateway.com/passage/?search=Matthew+16:25&version=KJV) — For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it.
+- [Matthew 16:27](https://www.biblegateway.com/passage/?search=Matthew+16:27&version=KJV) — For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works.
+- [Matthew 16:28](https://www.biblegateway.com/passage/?search=Matthew+16:28&version=KJV) — Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom.
+- [Matthew 17:9](https://www.biblegateway.com/passage/?search=Matthew+17:9&version=KJV) — Tell the vision to no man, until the Son of man be risen again from the dead.
+- [Matthew 17:12](https://www.biblegateway.com/passage/?search=Matthew+17:12&version=KJV) — But I say unto you, That Elias is come already, and they knew him not, but have done unto him whatsoever they listed. Likewise shall also the Son of man suffer of them.
+- [Matthew 17:17](https://www.biblegateway.com/passage/?search=Matthew+17:17&version=KJV) — O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me.
+- [Matthew 17:22](https://www.biblegateway.com/passage/?search=Matthew+17:22&version=KJV) — The Son of man shall be betrayed into the hands of men:
+- [Matthew 17:27](https://www.biblegateway.com/passage/?search=Matthew+17:27&version=KJV) — Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee.
+- [Matthew 18:5](https://www.biblegateway.com/passage/?search=Matthew+18:5&version=KJV) — And whoso shall receive one such little child in my name receiveth me.
+- [Matthew 18:6](https://www.biblegateway.com/passage/?search=Matthew+18:6&version=KJV) — But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.
+- [Matthew 18:11](https://www.biblegateway.com/passage/?search=Matthew+18:11&version=KJV) — For the Son of man is come to save that which was lost.
+- [Matthew 18:20](https://www.biblegateway.com/passage/?search=Matthew+18:20&version=KJV) — For where two or three are gathered together in my name, there am I in the midst of them.
+- [Matthew 19:14](https://www.biblegateway.com/passage/?search=Matthew+19:14&version=KJV) — Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven.
+- [Matthew 19:17](https://www.biblegateway.com/passage/?search=Matthew+19:17&version=KJV) — Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.
+- [Matthew 19:21](https://www.biblegateway.com/passage/?search=Matthew+19:21&version=KJV) — If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me.
+- [Matthew 19:28](https://www.biblegateway.com/passage/?search=Matthew+19:28&version=KJV) — Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel.
+- [Matthew 19:29](https://www.biblegateway.com/passage/?search=Matthew+19:29&version=KJV) — And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, shall receive an hundredfold, and shall inherit everlasting life.
+- [Matthew 20:18](https://www.biblegateway.com/passage/?search=Matthew+20:18&version=KJV) — Behold, we go up to Jerusalem; and the Son of man shall be betrayed unto the chief priests and unto the scribes, and they shall condemn him to death,
+- ◈ [Matthew 20:22](https://www.biblegateway.com/passage/?search=Matthew+20:22&version=KJV) — Ye know not what ye ask. Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with?
+- [Matthew 20:28](https://www.biblegateway.com/passage/?search=Matthew+20:28&version=KJV) — Even as the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.
+- [Matthew 21:3](https://www.biblegateway.com/passage/?search=Matthew+21:3&version=KJV) — And if any man say ought unto you, ye shall say, The Lord hath need of them; and straightway he will send them.
+- [Matthew 21:24](https://www.biblegateway.com/passage/?search=Matthew+21:24&version=KJV) — I also will ask you one thing, which if ye tell me, I in like wise will tell you by what authority I do these things.
+- [Matthew 22:18](https://www.biblegateway.com/passage/?search=Matthew+22:18&version=KJV) — Why tempt ye me, ye hypocrites?
+- [Matthew 22:19](https://www.biblegateway.com/passage/?search=Matthew+22:19&version=KJV) — Shew me the tribute money.
+- [Matthew 22:45](https://www.biblegateway.com/passage/?search=Matthew+22:45&version=KJV) — If David then call him Lord, how is he his son?
+- [Matthew 23:39](https://www.biblegateway.com/passage/?search=Matthew+23:39&version=KJV) — For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord.
+- ◈ [Matthew 24:5](https://www.biblegateway.com/passage/?search=Matthew+24:5&version=KJV) — For many shall come in my name, saying, I am Christ; and shall deceive many.
+- [Matthew 24:9](https://www.biblegateway.com/passage/?search=Matthew+24:9&version=KJV) — Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name’s sake.
+- [Matthew 24:27](https://www.biblegateway.com/passage/?search=Matthew+24:27&version=KJV) — For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.
+- [Matthew 24:30](https://www.biblegateway.com/passage/?search=Matthew+24:30&version=KJV) — And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
+- [Matthew 24:35](https://www.biblegateway.com/passage/?search=Matthew+24:35&version=KJV) — Heaven and earth shall pass away, but my words shall not pass away.
+- [Matthew 24:37](https://www.biblegateway.com/passage/?search=Matthew+24:37&version=KJV) — But as the days of Noe were, so shall also the coming of the Son of man be.
+- [Matthew 24:39](https://www.biblegateway.com/passage/?search=Matthew+24:39&version=KJV) — And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.
+- [Matthew 24:44](https://www.biblegateway.com/passage/?search=Matthew+24:44&version=KJV) — Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.
+- [Matthew 24:50](https://www.biblegateway.com/passage/?search=Matthew+24:50&version=KJV) — The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of,
+- [Matthew 25:13](https://www.biblegateway.com/passage/?search=Matthew+25:13&version=KJV) — Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.
+- [Matthew 25:19](https://www.biblegateway.com/passage/?search=Matthew+25:19&version=KJV) — After a long time the lord of those servants cometh, and reckoneth with them.
+- [Matthew 25:27](https://www.biblegateway.com/passage/?search=Matthew+25:27&version=KJV) — Thou oughtest therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury.
+- [Matthew 25:31](https://www.biblegateway.com/passage/?search=Matthew+25:31&version=KJV) — When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:
+- [Matthew 25:34](https://www.biblegateway.com/passage/?search=Matthew+25:34&version=KJV) — Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:
+- [Matthew 25:35](https://www.biblegateway.com/passage/?search=Matthew+25:35&version=KJV) — For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:
+- [Matthew 25:36](https://www.biblegateway.com/passage/?search=Matthew+25:36&version=KJV) — Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.
+- [Matthew 25:40](https://www.biblegateway.com/passage/?search=Matthew+25:40&version=KJV) — And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.
+- [Matthew 25:41](https://www.biblegateway.com/passage/?search=Matthew+25:41&version=KJV) — Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:
+- [Matthew 25:42](https://www.biblegateway.com/passage/?search=Matthew+25:42&version=KJV) — For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:
+- [Matthew 25:43](https://www.biblegateway.com/passage/?search=Matthew+25:43&version=KJV) — I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not.
+- [Matthew 25:45](https://www.biblegateway.com/passage/?search=Matthew+25:45&version=KJV) — Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me.
+- [Matthew 26:2](https://www.biblegateway.com/passage/?search=Matthew+26:2&version=KJV) — Ye know that after two days is the feast of the passover, and the Son of man is betrayed to be crucified.
+- [Matthew 26:10](https://www.biblegateway.com/passage/?search=Matthew+26:10&version=KJV) — Why trouble ye the woman? for she hath wrought a good work upon me.
+- [Matthew 26:11](https://www.biblegateway.com/passage/?search=Matthew+26:11&version=KJV) — For ye have the poor always with you; but me ye have not always.
+- [Matthew 26:12](https://www.biblegateway.com/passage/?search=Matthew+26:12&version=KJV) — For in that she hath poured this ointment on my body, she did it for my burial.
+- [Matthew 26:18](https://www.biblegateway.com/passage/?search=Matthew+26:18&version=KJV) — Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples.
+- [Matthew 26:21](https://www.biblegateway.com/passage/?search=Matthew+26:21&version=KJV) — Verily I say unto you, that one of you shall betray me.
+- [Matthew 26:23](https://www.biblegateway.com/passage/?search=Matthew+26:23&version=KJV) — He that dippeth his hand with me in the dish, the same shall betray me.
+- [Matthew 26:24](https://www.biblegateway.com/passage/?search=Matthew+26:24&version=KJV) — The Son of man goeth as it is written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born.
+- [Matthew 26:26](https://www.biblegateway.com/passage/?search=Matthew+26:26&version=KJV) — Take, eat; this is my body.
+- [Matthew 26:28](https://www.biblegateway.com/passage/?search=Matthew+26:28&version=KJV) — For this is my blood of the new testament, which is shed for many for the remission of sins.
+- [Matthew 26:29](https://www.biblegateway.com/passage/?search=Matthew+26:29&version=KJV) — But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father’s kingdom.
+- [Matthew 26:31](https://www.biblegateway.com/passage/?search=Matthew+26:31&version=KJV) — All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad.
+- ◈ [Matthew 26:32](https://www.biblegateway.com/passage/?search=Matthew+26:32&version=KJV) — But after I am risen again, I will go before you into Galilee.
+- [Matthew 26:34](https://www.biblegateway.com/passage/?search=Matthew+26:34&version=KJV) — Verily I say unto thee, That this night, before the cock crow, thou shalt deny me thrice.
+- [Matthew 26:38](https://www.biblegateway.com/passage/?search=Matthew+26:38&version=KJV) — My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me.
+- [Matthew 26:39](https://www.biblegateway.com/passage/?search=Matthew+26:39&version=KJV) — O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt.
+- [Matthew 26:40](https://www.biblegateway.com/passage/?search=Matthew+26:40&version=KJV) — What, could ye not watch with me one hour?
+- [Matthew 26:42](https://www.biblegateway.com/passage/?search=Matthew+26:42&version=KJV) — O my Father, if this cup may not pass away from me, except I drink it, thy will be done.
+- [Matthew 26:45](https://www.biblegateway.com/passage/?search=Matthew+26:45&version=KJV) — Sleep on now, and take your rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners.
+- [Matthew 26:46](https://www.biblegateway.com/passage/?search=Matthew+26:46&version=KJV) — Rise, let us be going: behold, he is at hand that doth betray me.
+- [Matthew 26:53](https://www.biblegateway.com/passage/?search=Matthew+26:53&version=KJV) — Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?
+- [Matthew 26:55](https://www.biblegateway.com/passage/?search=Matthew+26:55&version=KJV) — Are ye come out as against a thief with swords and staves for to take me? I sat daily with you teaching in the temple, and ye laid no hold on me.
+- [Matthew 26:64](https://www.biblegateway.com/passage/?search=Matthew+26:64&version=KJV) — Thou hast said: nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.
+- [Matthew 28:10](https://www.biblegateway.com/passage/?search=Matthew+28:10&version=KJV) — Be not afraid: go tell my brethren that they go into Galilee, and there shall they see me.
+- [Matthew 28:18](https://www.biblegateway.com/passage/?search=Matthew+28:18&version=KJV) — All power is given unto me in heaven and in earth.
+- ◈ [Matthew 28:20](https://www.biblegateway.com/passage/?search=Matthew+28:20&version=KJV) — Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world.
+
+## Mark (60 sayings, 6 ◈)
+
+- [Mark 1:17](https://www.biblegateway.com/passage/?search=Mark+1:17&version=KJV) — Come ye after me, and I will make you to become fishers of men.
+- [Mark 2:10](https://www.biblegateway.com/passage/?search=Mark+2:10&version=KJV) — But that ye may know that the Son of man hath power on earth to forgive sins,
+- [Mark 2:28](https://www.biblegateway.com/passage/?search=Mark+2:28&version=KJV) — Therefore the Son of man is Lord also of the sabbath.
+- [Mark 3:33](https://www.biblegateway.com/passage/?search=Mark+3:33&version=KJV) — Who is my mother, or my brethren?
+- [Mark 3:34](https://www.biblegateway.com/passage/?search=Mark+3:34&version=KJV) — Behold my mother and my brethren!
+- [Mark 3:35](https://www.biblegateway.com/passage/?search=Mark+3:35&version=KJV) — For whosoever shall do the will of God, the same is my brother, and my sister, and mother.
+- [Mark 5:30](https://www.biblegateway.com/passage/?search=Mark+5:30&version=KJV) — Who touched my clothes?
+- [Mark 7:6](https://www.biblegateway.com/passage/?search=Mark+7:6&version=KJV) — Well hath Esaias prophesied of you hypocrites, as it is written, This people honoureth me with their lips, but their heart is far from me.
+- [Mark 7:7](https://www.biblegateway.com/passage/?search=Mark+7:7&version=KJV) — Howbeit in vain do they worship me, teaching for doctrines the commandments of men.
+- [Mark 8:2](https://www.biblegateway.com/passage/?search=Mark+8:2&version=KJV) — I have compassion on the multitude, because they have now been with me three days, and have nothing to eat:
+- ◈ [Mark 8:27](https://www.biblegateway.com/passage/?search=Mark+8:27&version=KJV) — Whom do men say that I am?
+- ◈ [Mark 8:29](https://www.biblegateway.com/passage/?search=Mark+8:29&version=KJV) — But whom say ye that I am?
+- [Mark 8:33](https://www.biblegateway.com/passage/?search=Mark+8:33&version=KJV) — Get thee behind me, Satan: for thou savourest not the things that be of God, but the things that be of men.
+- [Mark 8:34](https://www.biblegateway.com/passage/?search=Mark+8:34&version=KJV) — Whosoever will come after me, let him deny himself, and take up his cross, and follow me.
+- [Mark 8:35](https://www.biblegateway.com/passage/?search=Mark+8:35&version=KJV) — For whosoever will save his life shall lose it; but whosoever shall lose his life for my sake and the gospel’s, the same shall save it.
+- [Mark 8:38](https://www.biblegateway.com/passage/?search=Mark+8:38&version=KJV) — Whosoever therefore shall be ashamed of me and of my words in this adulterous and sinful generation; of him also shall the Son of man be ashamed, when he cometh in the glory of his Father with the holy angels.
+- [Mark 9:12](https://www.biblegateway.com/passage/?search=Mark+9:12&version=KJV) — Elias verily cometh first, and restoreth all things; and how it is written of the Son of man, that he must suffer many things, and be set at nought.
+- [Mark 9:19](https://www.biblegateway.com/passage/?search=Mark+9:19&version=KJV) — O faithless generation, how long shall I be with you? how long shall I suffer you? bring him unto me.
+- [Mark 9:31](https://www.biblegateway.com/passage/?search=Mark+9:31&version=KJV) — The Son of man is delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise the third day.
+- [Mark 9:37](https://www.biblegateway.com/passage/?search=Mark+9:37&version=KJV) — Whosoever shall receive one of such children in my name, receiveth me: and whosoever shall receive me, receiveth not me, but him that sent me.
+- [Mark 9:39](https://www.biblegateway.com/passage/?search=Mark+9:39&version=KJV) — Forbid him not: for there is no man which shall do a miracle in my name, that can lightly speak evil of me.
+- [Mark 9:41](https://www.biblegateway.com/passage/?search=Mark+9:41&version=KJV) — For whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward.
+- [Mark 9:42](https://www.biblegateway.com/passage/?search=Mark+9:42&version=KJV) — And whosoever shall offend one of these little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea.
+- [Mark 10:14](https://www.biblegateway.com/passage/?search=Mark+10:14&version=KJV) — Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God.
+- [Mark 10:18](https://www.biblegateway.com/passage/?search=Mark+10:18&version=KJV) — Why callest thou me good? there is none good but one, that is, God.
+- [Mark 10:21](https://www.biblegateway.com/passage/?search=Mark+10:21&version=KJV) — One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me.
+- [Mark 10:29](https://www.biblegateway.com/passage/?search=Mark+10:29&version=KJV) — Verily I say unto you, There is no man that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my sake, and the gospel’s,
+- [Mark 10:33](https://www.biblegateway.com/passage/?search=Mark+10:33&version=KJV) — Saying, Behold, we go up to Jerusalem; and the Son of man shall be delivered unto the chief priests, and unto the scribes; and they shall condemn him to death, and shall deliver him to the Gentiles:
+- ◈ [Mark 10:38](https://www.biblegateway.com/passage/?search=Mark+10:38&version=KJV) — Ye know not what ye ask: can ye drink of the cup that I drink of? and be baptized with the baptism that I am baptized with?
+- ◈ [Mark 10:39](https://www.biblegateway.com/passage/?search=Mark+10:39&version=KJV) — Ye shall indeed drink of the cup that I drink of; and with the baptism that I am baptized withal shall ye be baptized:
+- [Mark 10:40](https://www.biblegateway.com/passage/?search=Mark+10:40&version=KJV) — But to sit on my right hand and on my left hand is not mine to give; but it shall be given to them for whom it is prepared.
+- [Mark 10:45](https://www.biblegateway.com/passage/?search=Mark+10:45&version=KJV) — For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.
+- [Mark 11:3](https://www.biblegateway.com/passage/?search=Mark+11:3&version=KJV) — And if any man say unto you, Why do ye this? say ye that the Lord hath need of him; and straightway he will send him hither.
+- [Mark 12:15](https://www.biblegateway.com/passage/?search=Mark+12:15&version=KJV) — Why tempt ye me? bring me a penny, that I may see it.
+- [Mark 12:37](https://www.biblegateway.com/passage/?search=Mark+12:37&version=KJV) — David therefore himself calleth him Lord; and whence is he then his son?
+- ◈ [Mark 13:6](https://www.biblegateway.com/passage/?search=Mark+13:6&version=KJV) — For many shall come in my name, saying, I am Christ; and shall deceive many.
+- [Mark 13:9](https://www.biblegateway.com/passage/?search=Mark+13:9&version=KJV) — But take heed to yourselves: for they shall deliver you up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them.
+- [Mark 13:13](https://www.biblegateway.com/passage/?search=Mark+13:13&version=KJV) — And ye shall be hated of all men for my name’s sake: but he that shall endure unto the end, the same shall be saved.
+- [Mark 13:26](https://www.biblegateway.com/passage/?search=Mark+13:26&version=KJV) — And then shall they see the Son of man coming in the clouds with great power and glory.
+- [Mark 13:31](https://www.biblegateway.com/passage/?search=Mark+13:31&version=KJV) — Heaven and earth shall pass away: but my words shall not pass away.
+- [Mark 13:34](https://www.biblegateway.com/passage/?search=Mark+13:34&version=KJV) — For the Son of man is as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch.
+- [Mark 14:6](https://www.biblegateway.com/passage/?search=Mark+14:6&version=KJV) — Let her alone; why trouble ye her? she hath wrought a good work on me.
+- [Mark 14:7](https://www.biblegateway.com/passage/?search=Mark+14:7&version=KJV) — For ye have the poor with you always, and whensoever ye will ye may do them good: but me ye have not always.
+- [Mark 14:8](https://www.biblegateway.com/passage/?search=Mark+14:8&version=KJV) — She hath done what she could: she is come aforehand to anoint my body to the burying.
+- [Mark 14:14](https://www.biblegateway.com/passage/?search=Mark+14:14&version=KJV) — And wheresoever he shall go in, say ye to the goodman of the house, The Master saith, Where is the guestchamber, where I shall eat the passover with my disciples?
+- [Mark 14:18](https://www.biblegateway.com/passage/?search=Mark+14:18&version=KJV) — Verily I say unto you, One of you which eateth with me shall betray me.
+- [Mark 14:20](https://www.biblegateway.com/passage/?search=Mark+14:20&version=KJV) — It is one of the twelve, that dippeth with me in the dish.
+- [Mark 14:21](https://www.biblegateway.com/passage/?search=Mark+14:21&version=KJV) — The Son of man indeed goeth, as it is written of him: but woe to that man by whom the Son of man is betrayed! good were it for that man if he had never been born.
+- [Mark 14:22](https://www.biblegateway.com/passage/?search=Mark+14:22&version=KJV) — Take, eat: this is my body.
+- [Mark 14:24](https://www.biblegateway.com/passage/?search=Mark+14:24&version=KJV) — This is my blood of the new testament, which is shed for many.
+- [Mark 14:27](https://www.biblegateway.com/passage/?search=Mark+14:27&version=KJV) — All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep shall be scattered.
+- ◈ [Mark 14:28](https://www.biblegateway.com/passage/?search=Mark+14:28&version=KJV) — But after that I am risen, I will go before you into Galilee.
+- [Mark 14:30](https://www.biblegateway.com/passage/?search=Mark+14:30&version=KJV) — Verily I say unto thee, That this day, even in this night, before the cock crow twice, thou shalt deny me thrice.
+- [Mark 14:34](https://www.biblegateway.com/passage/?search=Mark+14:34&version=KJV) — My soul is exceeding sorrowful unto death: tarry ye here, and watch.
+- [Mark 14:36](https://www.biblegateway.com/passage/?search=Mark+14:36&version=KJV) — Abba, Father, all things are possible unto thee; take away this cup from me: nevertheless not what I will, but what thou wilt.
+- [Mark 14:41](https://www.biblegateway.com/passage/?search=Mark+14:41&version=KJV) — Sleep on now, and take your rest: it is enough, the hour is come; behold, the Son of man is betrayed into the hands of sinners.
+- [Mark 14:42](https://www.biblegateway.com/passage/?search=Mark+14:42&version=KJV) — Rise up, let us go; lo, he that betrayeth me is at hand.
+- [Mark 14:48](https://www.biblegateway.com/passage/?search=Mark+14:48&version=KJV) — Are ye come out, as against a thief, with swords and with staves to take me?
+- [Mark 14:49](https://www.biblegateway.com/passage/?search=Mark+14:49&version=KJV) — I was daily with you in the temple teaching, and ye took me not: but the scriptures must be fulfilled.
+- [Mark 16:17](https://www.biblegateway.com/passage/?search=Mark+16:17&version=KJV) — And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;
+
+## Luke (108 sayings, 7 ◈)
+
+- [Luke 2:49](https://www.biblegateway.com/passage/?search=Luke+2:49&version=KJV) — How is it that ye sought me? wist ye not that I must be about my Father’s business?
+- [Luke 4:8](https://www.biblegateway.com/passage/?search=Luke+4:8&version=KJV) — Get thee behind me, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
+- [Luke 4:18](https://www.biblegateway.com/passage/?search=Luke+4:18&version=KJV) — The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised,
+- [Luke 4:23](https://www.biblegateway.com/passage/?search=Luke+4:23&version=KJV) — Ye will surely say unto me this proverb, Physician, heal thyself: whatsoever we have heard done in Capernaum, do also here in thy country.
+- [Luke 5:24](https://www.biblegateway.com/passage/?search=Luke+5:24&version=KJV) — But that ye may know that the Son of man hath power upon earth to forgive sins, I say unto thee, Arise, and take up thy couch, and go into thine house.
+- [Luke 5:27](https://www.biblegateway.com/passage/?search=Luke+5:27&version=KJV) — Follow me.
+- [Luke 6:5](https://www.biblegateway.com/passage/?search=Luke+6:5&version=KJV) — That the Son of man is Lord also of the sabbath.
+- [Luke 6:22](https://www.biblegateway.com/passage/?search=Luke+6:22&version=KJV) — Blessed are ye, when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of man’s sake.
+- [Luke 6:46](https://www.biblegateway.com/passage/?search=Luke+6:46&version=KJV) — And why call ye me, Lord, Lord, and do not the things which I say?
+- [Luke 6:47](https://www.biblegateway.com/passage/?search=Luke+6:47&version=KJV) — Whosoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like:
+- [Luke 7:23](https://www.biblegateway.com/passage/?search=Luke+7:23&version=KJV) — And blessed is he, whosoever shall not be offended in me.
+- [Luke 7:34](https://www.biblegateway.com/passage/?search=Luke+7:34&version=KJV) — The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!
+- [Luke 7:44](https://www.biblegateway.com/passage/?search=Luke+7:44&version=KJV) — Seest thou this woman? I entered into thine house, thou gavest me no water for my feet: but she hath washed my feet with tears, and wiped them with the hairs of her head.
+- [Luke 7:45](https://www.biblegateway.com/passage/?search=Luke+7:45&version=KJV) — Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet.
+- [Luke 7:46](https://www.biblegateway.com/passage/?search=Luke+7:46&version=KJV) — My head with oil thou didst not anoint: but this woman hath anointed my feet with ointment.
+- [Luke 8:21](https://www.biblegateway.com/passage/?search=Luke+8:21&version=KJV) — My mother and my brethren are these which hear the word of God, and do it.
+- [Luke 8:45](https://www.biblegateway.com/passage/?search=Luke+8:45&version=KJV) — Who touched me?
+- [Luke 8:46](https://www.biblegateway.com/passage/?search=Luke+8:46&version=KJV) — Somebody hath touched me: for I perceive that virtue is gone out of me.
+- ◈ [Luke 9:18](https://www.biblegateway.com/passage/?search=Luke+9:18&version=KJV) — Whom say the people that I am?
+- ◈ [Luke 9:20](https://www.biblegateway.com/passage/?search=Luke+9:20&version=KJV) — But whom say ye that I am?
+- [Luke 9:22](https://www.biblegateway.com/passage/?search=Luke+9:22&version=KJV) — The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day.
+- [Luke 9:23](https://www.biblegateway.com/passage/?search=Luke+9:23&version=KJV) — If any man will come after me, let him deny himself, and take up his cross daily, and follow me.
+- [Luke 9:24](https://www.biblegateway.com/passage/?search=Luke+9:24&version=KJV) — For whosoever will save his life shall lose it: but whosoever will lose his life for my sake, the same shall save it.
+- [Luke 9:26](https://www.biblegateway.com/passage/?search=Luke+9:26&version=KJV) — For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and in his Father’s, and of the holy angels.
+- [Luke 9:41](https://www.biblegateway.com/passage/?search=Luke+9:41&version=KJV) — O faithless and perverse generation, how long shall I be with you, and suffer you? Bring thy son hither.
+- [Luke 9:44](https://www.biblegateway.com/passage/?search=Luke+9:44&version=KJV) — Let these sayings sink down into your ears: for the Son of man shall be delivered into the hands of men.
+- [Luke 9:48](https://www.biblegateway.com/passage/?search=Luke+9:48&version=KJV) — Whosoever shall receive this child in my name receiveth me: and whosoever shall receive me receiveth him that sent me: for he that is least among you all, the same shall be great.
+- [Luke 9:56](https://www.biblegateway.com/passage/?search=Luke+9:56&version=KJV) — For the Son of man is not come to destroy men’s lives, but to save them.
+- [Luke 9:58](https://www.biblegateway.com/passage/?search=Luke+9:58&version=KJV) — Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head.
+- [Luke 9:59](https://www.biblegateway.com/passage/?search=Luke+9:59&version=KJV) — Follow me.
+- [Luke 10:16](https://www.biblegateway.com/passage/?search=Luke+10:16&version=KJV) — He that heareth you heareth me; and he that despiseth you despiseth me; and he that despiseth me despiseth him that sent me.
+- [Luke 11:19](https://www.biblegateway.com/passage/?search=Luke+11:19&version=KJV) — And if I by Beelzebub cast out devils, by whom do your sons cast them out? therefore shall they be your judges.
+- [Luke 11:20](https://www.biblegateway.com/passage/?search=Luke+11:20&version=KJV) — But if I with the finger of God cast out devils, no doubt the kingdom of God is come upon you.
+- [Luke 11:23](https://www.biblegateway.com/passage/?search=Luke+11:23&version=KJV) — He that is not with me is against me: and he that gathereth not with me scattereth.
+- [Luke 11:30](https://www.biblegateway.com/passage/?search=Luke+11:30&version=KJV) — For as Jonas was a sign unto the Ninevites, so shall also the Son of man be to this generation.
+- [Luke 12:4](https://www.biblegateway.com/passage/?search=Luke+12:4&version=KJV) — And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do.
+- [Luke 12:8](https://www.biblegateway.com/passage/?search=Luke+12:8&version=KJV) — Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:
+- [Luke 12:9](https://www.biblegateway.com/passage/?search=Luke+12:9&version=KJV) — But he that denieth me before men shall be denied before the angels of God.
+- [Luke 12:10](https://www.biblegateway.com/passage/?search=Luke+12:10&version=KJV) — And whosoever shall speak a word against the Son of man, it shall be forgiven him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven.
+- [Luke 12:14](https://www.biblegateway.com/passage/?search=Luke+12:14&version=KJV) — Man, who made me a judge or a divider over you?
+- [Luke 12:37](https://www.biblegateway.com/passage/?search=Luke+12:37&version=KJV) — Blessed are those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them.
+- [Luke 12:40](https://www.biblegateway.com/passage/?search=Luke+12:40&version=KJV) — Be ye therefore ready also: for the Son of man cometh at an hour when ye think not.
+- [Luke 12:46](https://www.biblegateway.com/passage/?search=Luke+12:46&version=KJV) — The lord of that servant will come in a day when he looketh not for him, and at an hour when he is not aware, and will cut him in sunder, and will appoint him his portion with the unbelievers.
+- ◈ [Luke 12:49](https://www.biblegateway.com/passage/?search=Luke+12:49&version=KJV) — I am come to send fire on the earth; and what will I, if it be already kindled?
+- [Luke 12:50](https://www.biblegateway.com/passage/?search=Luke+12:50&version=KJV) — But I have a baptism to be baptized with; and how am I straitened till it be accomplished!
+- ◈ [Luke 12:51](https://www.biblegateway.com/passage/?search=Luke+12:51&version=KJV) — Suppose ye that I am come to give peace on earth? I tell you, Nay; but rather division:
+- [Luke 13:27](https://www.biblegateway.com/passage/?search=Luke+13:27&version=KJV) — But he shall say, I tell you, I know you not whence ye are; depart from me, all ye workers of iniquity.
+- [Luke 13:32](https://www.biblegateway.com/passage/?search=Luke+13:32&version=KJV) — Go ye, and tell that fox, Behold, I cast out devils, and I do cures to day and to morrow, and the third day I shall be perfected.
+- [Luke 13:33](https://www.biblegateway.com/passage/?search=Luke+13:33&version=KJV) — Nevertheless I must walk to day, and to morrow, and the day following: for it cannot be that a prophet perish out of Jerusalem.
+- [Luke 13:34](https://www.biblegateway.com/passage/?search=Luke+13:34&version=KJV) — O Jerusalem, Jerusalem, which killest the prophets, and stonest them that are sent unto thee; how often would I have gathered thy children together, as a hen doth gather her brood under her wings, and ye would not!
+- [Luke 13:35](https://www.biblegateway.com/passage/?search=Luke+13:35&version=KJV) — Behold, your house is left unto you desolate: and verily I say unto you, Ye shall not see me, until the time come when ye shall say, Blessed is he that cometh in the name of the Lord.
+- [Luke 14:26](https://www.biblegateway.com/passage/?search=Luke+14:26&version=KJV) — If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.
+- [Luke 14:27](https://www.biblegateway.com/passage/?search=Luke+14:27&version=KJV) — And whosoever doth not bear his cross, and come after me, cannot be my disciple.
+- [Luke 14:33](https://www.biblegateway.com/passage/?search=Luke+14:33&version=KJV) — So likewise, whosoever he be of you that forsaketh not all that he hath, he cannot be my disciple.
+- [Luke 17:22](https://www.biblegateway.com/passage/?search=Luke+17:22&version=KJV) — The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see it.
+- [Luke 17:24](https://www.biblegateway.com/passage/?search=Luke+17:24&version=KJV) — For as the lightning, that lighteneth out of the one part under heaven, shineth unto the other part under heaven; so shall also the Son of man be in his day.
+- [Luke 17:26](https://www.biblegateway.com/passage/?search=Luke+17:26&version=KJV) — And as it was in the days of Noe, so shall it be also in the days of the Son of man.
+- [Luke 17:30](https://www.biblegateway.com/passage/?search=Luke+17:30&version=KJV) — Even thus shall it be in the day when the Son of man is revealed.
+- [Luke 18:8](https://www.biblegateway.com/passage/?search=Luke+18:8&version=KJV) — I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?
+- [Luke 18:16](https://www.biblegateway.com/passage/?search=Luke+18:16&version=KJV) — Suffer little children to come unto me, and forbid them not: for of such is the kingdom of God.
+- [Luke 18:19](https://www.biblegateway.com/passage/?search=Luke+18:19&version=KJV) — Why callest thou me good? none is good, save one, that is, God.
+- [Luke 18:22](https://www.biblegateway.com/passage/?search=Luke+18:22&version=KJV) — Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me.
+- [Luke 18:31](https://www.biblegateway.com/passage/?search=Luke+18:31&version=KJV) — Then he took unto him the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished.
+- [Luke 19:5](https://www.biblegateway.com/passage/?search=Luke+19:5&version=KJV) — Zacchaeus, make haste, and come down; for to day I must abide at thy house.
+- [Luke 19:10](https://www.biblegateway.com/passage/?search=Luke+19:10&version=KJV) — For the Son of man is come to seek and to save that which was lost.
+- [Luke 19:13](https://www.biblegateway.com/passage/?search=Luke+19:13&version=KJV) — And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come.
+- [Luke 19:22](https://www.biblegateway.com/passage/?search=Luke+19:22&version=KJV) — And he saith unto him, Out of thine own mouth will I judge thee, thou wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:
+- [Luke 19:23](https://www.biblegateway.com/passage/?search=Luke+19:23&version=KJV) — Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?
+- [Luke 19:27](https://www.biblegateway.com/passage/?search=Luke+19:27&version=KJV) — But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me.
+- [Luke 19:31](https://www.biblegateway.com/passage/?search=Luke+19:31&version=KJV) — And if any man ask you, Why do ye loose him? thus shall ye say unto him, Because the Lord hath need of him.
+- [Luke 20:3](https://www.biblegateway.com/passage/?search=Luke+20:3&version=KJV) — I will also ask you one thing; and answer me:
+- [Luke 20:23](https://www.biblegateway.com/passage/?search=Luke+20:23&version=KJV) — Why tempt ye me?
+- [Luke 20:24](https://www.biblegateway.com/passage/?search=Luke+20:24&version=KJV) — Shew me a penny. Whose image and superscription hath it?
+- [Luke 20:44](https://www.biblegateway.com/passage/?search=Luke+20:44&version=KJV) — David therefore calleth him Lord, how is he then his son?
+- ◈ [Luke 21:8](https://www.biblegateway.com/passage/?search=Luke+21:8&version=KJV) — Take heed that ye be not deceived: for many shall come in my name, saying, I am Christ; and the time draweth near: go ye not therefore after them.
+- [Luke 21:12](https://www.biblegateway.com/passage/?search=Luke+21:12&version=KJV) — But before all these, they shall lay their hands on you, and persecute you, delivering you up to the synagogues, and into prisons, being brought before kings and rulers for my name’s sake.
+- [Luke 21:15](https://www.biblegateway.com/passage/?search=Luke+21:15&version=KJV) — For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.
+- [Luke 21:17](https://www.biblegateway.com/passage/?search=Luke+21:17&version=KJV) — And ye shall be hated of all men for my name’s sake.
+- [Luke 21:27](https://www.biblegateway.com/passage/?search=Luke+21:27&version=KJV) — And then shall they see the Son of man coming in a cloud with power and great glory.
+- [Luke 21:33](https://www.biblegateway.com/passage/?search=Luke+21:33&version=KJV) — Heaven and earth shall pass away: but my words shall not pass away.
+- [Luke 21:36](https://www.biblegateway.com/passage/?search=Luke+21:36&version=KJV) — Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.
+- [Luke 22:11](https://www.biblegateway.com/passage/?search=Luke+22:11&version=KJV) — And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples?
+- [Luke 22:15](https://www.biblegateway.com/passage/?search=Luke+22:15&version=KJV) — With desire I have desired to eat this passover with you before I suffer:
+- [Luke 22:16](https://www.biblegateway.com/passage/?search=Luke+22:16&version=KJV) — For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God.
+- [Luke 22:18](https://www.biblegateway.com/passage/?search=Luke+22:18&version=KJV) — For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come.
+- [Luke 22:19](https://www.biblegateway.com/passage/?search=Luke+22:19&version=KJV) — This is my body which is given for you: this do in remembrance of me.
+- [Luke 22:20](https://www.biblegateway.com/passage/?search=Luke+22:20&version=KJV) — This cup is the new testament in my blood, which is shed for you.
+- [Luke 22:21](https://www.biblegateway.com/passage/?search=Luke+22:21&version=KJV) — But, behold, the hand of him that betrayeth me is with me on the table.
+- [Luke 22:22](https://www.biblegateway.com/passage/?search=Luke+22:22&version=KJV) — And truly the Son of man goeth, as it was determined: but woe unto that man by whom he is betrayed!
+- ◈ [Luke 22:27](https://www.biblegateway.com/passage/?search=Luke+22:27&version=KJV) — For whether is greater, he that sitteth at meat, or he that serveth? is not he that sitteth at meat? but I am among you as he that serveth.
+- [Luke 22:28](https://www.biblegateway.com/passage/?search=Luke+22:28&version=KJV) — Ye are they which have continued with me in my temptations.
+- [Luke 22:29](https://www.biblegateway.com/passage/?search=Luke+22:29&version=KJV) — And I appoint unto you a kingdom, as my Father hath appointed unto me;
+- [Luke 22:30](https://www.biblegateway.com/passage/?search=Luke+22:30&version=KJV) — That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel.
+- [Luke 22:32](https://www.biblegateway.com/passage/?search=Luke+22:32&version=KJV) — But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren.
+- [Luke 22:34](https://www.biblegateway.com/passage/?search=Luke+22:34&version=KJV) — I tell thee, Peter, the cock shall not crow this day, before that thou shalt thrice deny that thou knowest me.
+- [Luke 22:35](https://www.biblegateway.com/passage/?search=Luke+22:35&version=KJV) — When I sent you without purse, and scrip, and shoes, lacked ye any thing?
+- [Luke 22:37](https://www.biblegateway.com/passage/?search=Luke+22:37&version=KJV) — For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end.
+- [Luke 22:42](https://www.biblegateway.com/passage/?search=Luke+22:42&version=KJV) — Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done.
+- [Luke 22:48](https://www.biblegateway.com/passage/?search=Luke+22:48&version=KJV) — Judas, betrayest thou the Son of man with a kiss?
+- [Luke 22:53](https://www.biblegateway.com/passage/?search=Luke+22:53&version=KJV) — When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness.
+- [Luke 22:68](https://www.biblegateway.com/passage/?search=Luke+22:68&version=KJV) — And if I also ask you, ye will not answer me, nor let me go.
+- [Luke 22:69](https://www.biblegateway.com/passage/?search=Luke+22:69&version=KJV) — Hereafter shall the Son of man sit on the right hand of the power of God.
+- ◈ [Luke 22:70](https://www.biblegateway.com/passage/?search=Luke+22:70&version=KJV) — Ye say that I am.
+- [Luke 23:28](https://www.biblegateway.com/passage/?search=Luke+23:28&version=KJV) — Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children.
+- [Luke 23:43](https://www.biblegateway.com/passage/?search=Luke+23:43&version=KJV) — Verily I say unto thee, To day shalt thou be with me in paradise.
+- [Luke 24:39](https://www.biblegateway.com/passage/?search=Luke+24:39&version=KJV) — Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have.
+- [Luke 24:44](https://www.biblegateway.com/passage/?search=Luke+24:44&version=KJV) — These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me.
+- [Luke 24:49](https://www.biblegateway.com/passage/?search=Luke+24:49&version=KJV) — And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.
+
+## John (263 sayings, 46 ◈)
+
+- [John 1:43](https://www.biblegateway.com/passage/?search=John+1:43&version=KJV) — Follow me.
+- [John 1:48](https://www.biblegateway.com/passage/?search=John+1:48&version=KJV) — Before that Philip called thee, when thou wast under the fig tree, I saw thee.
+- [John 1:50](https://www.biblegateway.com/passage/?search=John+1:50&version=KJV) — Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these.
+- [John 1:51](https://www.biblegateway.com/passage/?search=John+1:51&version=KJV) — Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.
+- [John 2:4](https://www.biblegateway.com/passage/?search=John+2:4&version=KJV) — Woman, what have I to do with thee? mine hour is not yet come.
+- [John 2:19](https://www.biblegateway.com/passage/?search=John+2:19&version=KJV) — Destroy this temple, and in three days I will raise it up.
+- [John 3:13](https://www.biblegateway.com/passage/?search=John+3:13&version=KJV) — And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven.
+- [John 3:14](https://www.biblegateway.com/passage/?search=John+3:14&version=KJV) — And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:
+- [John 3:17](https://www.biblegateway.com/passage/?search=John+3:17&version=KJV) — For God sent not his Son into the world to condemn the world; but that the world through him might be saved.
+- [John 4:10](https://www.biblegateway.com/passage/?search=John+4:10&version=KJV) — If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water.
+- [John 4:14](https://www.biblegateway.com/passage/?search=John+4:14&version=KJV) — But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.
+- [John 4:26](https://www.biblegateway.com/passage/?search=John+4:26&version=KJV) — I that speak unto thee am he.
+- [John 4:32](https://www.biblegateway.com/passage/?search=John+4:32&version=KJV) — I have meat to eat that ye know not of.
+- [John 4:34](https://www.biblegateway.com/passage/?search=John+4:34&version=KJV) — My meat is to do the will of him that sent me, and to finish his work.
+- [John 5:17](https://www.biblegateway.com/passage/?search=John+5:17&version=KJV) — My Father worketh hitherto, and I work.
+- [John 5:19](https://www.biblegateway.com/passage/?search=John+5:19&version=KJV) — Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise.
+- [John 5:24](https://www.biblegateway.com/passage/?search=John+5:24&version=KJV) — Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life.
+- [John 5:25](https://www.biblegateway.com/passage/?search=John+5:25&version=KJV) — Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live.
+- [John 5:27](https://www.biblegateway.com/passage/?search=John+5:27&version=KJV) — And hath given him authority to execute judgment also, because he is the Son of man.
+- [John 5:30](https://www.biblegateway.com/passage/?search=John+5:30&version=KJV) — I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which hath sent me.
+- [John 5:31](https://www.biblegateway.com/passage/?search=John+5:31&version=KJV) — If I bear witness of myself, my witness is not true.
+- [John 5:32](https://www.biblegateway.com/passage/?search=John+5:32&version=KJV) — There is another that beareth witness of me; and I know that the witness which he witnesseth of me is true.
+- [John 5:36](https://www.biblegateway.com/passage/?search=John+5:36&version=KJV) — But I have greater witness than that of John: for the works which the Father hath given me to finish, the same works that I do, bear witness of me, that the Father hath sent me.
+- [John 5:37](https://www.biblegateway.com/passage/?search=John+5:37&version=KJV) — And the Father himself, which hath sent me, hath borne witness of me. Ye have neither heard his voice at any time, nor seen his shape.
+- [John 5:39](https://www.biblegateway.com/passage/?search=John+5:39&version=KJV) — Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.
+- [John 5:40](https://www.biblegateway.com/passage/?search=John+5:40&version=KJV) — And ye will not come to me, that ye might have life.
+- [John 5:41](https://www.biblegateway.com/passage/?search=John+5:41&version=KJV) — I receive not honour from men.
+- ◈ [John 5:43](https://www.biblegateway.com/passage/?search=John+5:43&version=KJV) — I am come in my Father’s name, and ye receive me not: if another shall come in his own name, him ye will receive.
+- [John 5:46](https://www.biblegateway.com/passage/?search=John+5:46&version=KJV) — For had ye believed Moses, ye would have believed me: for he wrote of me.
+- [John 5:47](https://www.biblegateway.com/passage/?search=John+5:47&version=KJV) — But if ye believe not his writings, how shall ye believe my words?
+- [John 6:20](https://www.biblegateway.com/passage/?search=John+6:20&version=KJV) — It is I; be not afraid.
+- [John 6:26](https://www.biblegateway.com/passage/?search=John+6:26&version=KJV) — Verily, verily, I say unto you, Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled.
+- [John 6:27](https://www.biblegateway.com/passage/?search=John+6:27&version=KJV) — Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life, which the Son of man shall give unto you: for him hath God the Father sealed.
+- ◈ [John 6:35](https://www.biblegateway.com/passage/?search=John+6:35&version=KJV) — I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.
+- [John 6:36](https://www.biblegateway.com/passage/?search=John+6:36&version=KJV) — But I said unto you, That ye also have seen me, and believe not.
+- [John 6:37](https://www.biblegateway.com/passage/?search=John+6:37&version=KJV) — All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.
+- [John 6:38](https://www.biblegateway.com/passage/?search=John+6:38&version=KJV) — For I came down from heaven, not to do mine own will, but the will of him that sent me.
+- [John 6:39](https://www.biblegateway.com/passage/?search=John+6:39&version=KJV) — And this is the Father’s will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day.
+- [John 6:40](https://www.biblegateway.com/passage/?search=John+6:40&version=KJV) — And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.
+- [John 6:44](https://www.biblegateway.com/passage/?search=John+6:44&version=KJV) — No man can come to me, except the Father which hath sent me draw him: and I will raise him up at the last day.
+- [John 6:45](https://www.biblegateway.com/passage/?search=John+6:45&version=KJV) — It is written in the prophets, And they shall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me.
+- [John 6:47](https://www.biblegateway.com/passage/?search=John+6:47&version=KJV) — Verily, verily, I say unto you, He that believeth on me hath everlasting life.
+- ◈ [John 6:48](https://www.biblegateway.com/passage/?search=John+6:48&version=KJV) — I am that bread of life.
+- ◈ [John 6:51](https://www.biblegateway.com/passage/?search=John+6:51&version=KJV) — I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread that I will give is my flesh, which I will give for the life of the world.
+- [John 6:53](https://www.biblegateway.com/passage/?search=John+6:53&version=KJV) — Verily, verily, I say unto you, Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you.
+- [John 6:54](https://www.biblegateway.com/passage/?search=John+6:54&version=KJV) — Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day.
+- [John 6:55](https://www.biblegateway.com/passage/?search=John+6:55&version=KJV) — For my flesh is meat indeed, and my blood is drink indeed.
+- [John 6:56](https://www.biblegateway.com/passage/?search=John+6:56&version=KJV) — He that eateth my flesh, and drinketh my blood, dwelleth in me, and I in him.
+- [John 6:57](https://www.biblegateway.com/passage/?search=John+6:57&version=KJV) — As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me.
+- [John 6:62](https://www.biblegateway.com/passage/?search=John+6:62&version=KJV) — What and if ye shall see the Son of man ascend up where he was before?
+- [John 6:63](https://www.biblegateway.com/passage/?search=John+6:63&version=KJV) — It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life.
+- [John 6:65](https://www.biblegateway.com/passage/?search=John+6:65&version=KJV) — Therefore said I unto you, that no man can come unto me, except it were given unto him of my Father.
+- [John 6:70](https://www.biblegateway.com/passage/?search=John+6:70&version=KJV) — Have not I chosen you twelve, and one of you is a devil?
+- [John 7:6](https://www.biblegateway.com/passage/?search=John+7:6&version=KJV) — My time is not yet come: but your time is alway ready.
+- [John 7:7](https://www.biblegateway.com/passage/?search=John+7:7&version=KJV) — The world cannot hate you; but me it hateth, because I testify of it, that the works thereof are evil.
+- [John 7:8](https://www.biblegateway.com/passage/?search=John+7:8&version=KJV) — Go ye up unto this feast: I go not up yet unto this feast; for my time is not yet full come.
+- [John 7:16](https://www.biblegateway.com/passage/?search=John+7:16&version=KJV) — My doctrine is not mine, but his that sent me.
+- [John 7:17](https://www.biblegateway.com/passage/?search=John+7:17&version=KJV) — If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself.
+- [John 7:19](https://www.biblegateway.com/passage/?search=John+7:19&version=KJV) — Did not Moses give you the law, and yet none of you keepeth the law? Why go ye about to kill me?
+- [John 7:21](https://www.biblegateway.com/passage/?search=John+7:21&version=KJV) — I have done one work, and ye all marvel.
+- [John 7:23](https://www.biblegateway.com/passage/?search=John+7:23&version=KJV) — If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day?
+- ◈ [John 7:28](https://www.biblegateway.com/passage/?search=John+7:28&version=KJV) — Ye both know me, and ye know whence I am: and I am not come of myself, but he that sent me is true, whom ye know not.
+- ◈ [John 7:29](https://www.biblegateway.com/passage/?search=John+7:29&version=KJV) — But I know him: for I am from him, and he hath sent me.
+- [John 7:33](https://www.biblegateway.com/passage/?search=John+7:33&version=KJV) — Yet a little while am I with you, and then I go unto him that sent me.
+- ◈ [John 7:34](https://www.biblegateway.com/passage/?search=John+7:34&version=KJV) — Ye shall seek me, and shall not find me: and where I am, thither ye cannot come.
+- [John 7:37](https://www.biblegateway.com/passage/?search=John+7:37&version=KJV) — If any man thirst, let him come unto me, and drink.
+- [John 7:38](https://www.biblegateway.com/passage/?search=John+7:38&version=KJV) — He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.
+- ◈ [John 8:12](https://www.biblegateway.com/passage/?search=John+8:12&version=KJV) — I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.
+- [John 8:14](https://www.biblegateway.com/passage/?search=John+8:14&version=KJV) — Though I bear record of myself, yet my record is true: for I know whence I came, and whither I go; but ye cannot tell whence I come, and whither I go.
+- [John 8:15](https://www.biblegateway.com/passage/?search=John+8:15&version=KJV) — Ye judge after the flesh; I judge no man.
+- ◈ [John 8:16](https://www.biblegateway.com/passage/?search=John+8:16&version=KJV) — And yet if I judge, my judgment is true: for I am not alone, but I and the Father that sent me.
+- ◈ [John 8:18](https://www.biblegateway.com/passage/?search=John+8:18&version=KJV) — I am one that bear witness of myself, and the Father that sent me beareth witness of me.
+- [John 8:19](https://www.biblegateway.com/passage/?search=John+8:19&version=KJV) — Ye neither know me, nor my Father: if ye had known me, ye should have known my Father also.
+- [John 8:21](https://www.biblegateway.com/passage/?search=John+8:21&version=KJV) — I go my way, and ye shall seek me, and shall die in your sins: whither I go, ye cannot come.
+- ◈ [John 8:23](https://www.biblegateway.com/passage/?search=John+8:23&version=KJV) — Ye are from beneath; I am from above: ye are of this world; I am not of this world.
+- ◈ [John 8:24](https://www.biblegateway.com/passage/?search=John+8:24&version=KJV) — I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins.
+- [John 8:26](https://www.biblegateway.com/passage/?search=John+8:26&version=KJV) — I have many things to say and to judge of you: but he that sent me is true; and I speak to the world those things which I have heard of him.
+- ◈ [John 8:28](https://www.biblegateway.com/passage/?search=John+8:28&version=KJV) — When ye have lifted up the Son of man, then shall ye know that I am he, and that I do nothing of myself; but as my Father hath taught me, I speak these things.
+- [John 8:29](https://www.biblegateway.com/passage/?search=John+8:29&version=KJV) — And he that sent me is with me: the Father hath not left me alone; for I do always those things that please him.
+- [John 8:31](https://www.biblegateway.com/passage/?search=John+8:31&version=KJV) — If ye continue in my word, then are ye my disciples indeed;
+- [John 8:37](https://www.biblegateway.com/passage/?search=John+8:37&version=KJV) — I know that ye are Abraham’s seed; but ye seek to kill me, because my word hath no place in you.
+- [John 8:38](https://www.biblegateway.com/passage/?search=John+8:38&version=KJV) — I speak that which I have seen with my Father: and ye do that which ye have seen with your father.
+- [John 8:40](https://www.biblegateway.com/passage/?search=John+8:40&version=KJV) — But now ye seek to kill me, a man that hath told you the truth, which I have heard of God: this did not Abraham.
+- [John 8:42](https://www.biblegateway.com/passage/?search=John+8:42&version=KJV) — If God were your Father, ye would love me: for I proceeded forth and came from God; neither came I of myself, but he sent me.
+- [John 8:43](https://www.biblegateway.com/passage/?search=John+8:43&version=KJV) — Why do ye not understand my speech? even because ye cannot hear my word.
+- [John 8:45](https://www.biblegateway.com/passage/?search=John+8:45&version=KJV) — And because I tell you the truth, ye believe me not.
+- [John 8:46](https://www.biblegateway.com/passage/?search=John+8:46&version=KJV) — Which of you convinceth me of sin? And if I say the truth, why do ye not believe me?
+- [John 8:49](https://www.biblegateway.com/passage/?search=John+8:49&version=KJV) — I have not a devil; but I honour my Father, and ye do dishonour me.
+- [John 8:50](https://www.biblegateway.com/passage/?search=John+8:50&version=KJV) — And I seek not mine own glory: there is one that seeketh and judgeth.
+- [John 8:51](https://www.biblegateway.com/passage/?search=John+8:51&version=KJV) — Verily, verily, I say unto you, If a man keep my saying, he shall never see death.
+- [John 8:54](https://www.biblegateway.com/passage/?search=John+8:54&version=KJV) — If I honour myself, my honour is nothing: it is my Father that honoureth me; of whom ye say, that he is your God:
+- [John 8:55](https://www.biblegateway.com/passage/?search=John+8:55&version=KJV) — Yet ye have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying.
+- [John 8:56](https://www.biblegateway.com/passage/?search=John+8:56&version=KJV) — Your father Abraham rejoiced to see my day: and he saw it, and was glad.
+- ◈ [John 8:58](https://www.biblegateway.com/passage/?search=John+8:58&version=KJV) — Verily, verily, I say unto you, Before Abraham was, I am.
+- [John 9:4](https://www.biblegateway.com/passage/?search=John+9:4&version=KJV) — I must work the works of him that sent me, while it is day: the night cometh, when no man can work.
+- ◈ [John 9:5](https://www.biblegateway.com/passage/?search=John+9:5&version=KJV) — As long as I am in the world, I am the light of the world.
+- ◈ [John 9:39](https://www.biblegateway.com/passage/?search=John+9:39&version=KJV) — For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.
+- ◈ [John 10:7](https://www.biblegateway.com/passage/?search=John+10:7&version=KJV) — Verily, verily, I say unto you, I am the door of the sheep.
+- [John 10:8](https://www.biblegateway.com/passage/?search=John+10:8&version=KJV) — All that ever came before me are thieves and robbers: but the sheep did not hear them.
+- ◈ [John 10:9](https://www.biblegateway.com/passage/?search=John+10:9&version=KJV) — I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.
+- ◈ [John 10:10](https://www.biblegateway.com/passage/?search=John+10:10&version=KJV) — The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.
+- ◈ [John 10:11](https://www.biblegateway.com/passage/?search=John+10:11&version=KJV) — I am the good shepherd: the good shepherd giveth his life for the sheep.
+- ◈ [John 10:14](https://www.biblegateway.com/passage/?search=John+10:14&version=KJV) — I am the good shepherd, and know my sheep, and am known of mine.
+- [John 10:15](https://www.biblegateway.com/passage/?search=John+10:15&version=KJV) — As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.
+- [John 10:16](https://www.biblegateway.com/passage/?search=John+10:16&version=KJV) — And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.
+- [John 10:17](https://www.biblegateway.com/passage/?search=John+10:17&version=KJV) — Therefore doth my Father love me, because I lay down my life, that I might take it again.
+- [John 10:18](https://www.biblegateway.com/passage/?search=John+10:18&version=KJV) — No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.
+- [John 10:25](https://www.biblegateway.com/passage/?search=John+10:25&version=KJV) — I told you, and ye believed not: the works that I do in my Father’s name, they bear witness of me.
+- [John 10:26](https://www.biblegateway.com/passage/?search=John+10:26&version=KJV) — But ye believe not, because ye are not of my sheep, as I said unto you.
+- [John 10:27](https://www.biblegateway.com/passage/?search=John+10:27&version=KJV) — My sheep hear my voice, and I know them, and they follow me:
+- [John 10:28](https://www.biblegateway.com/passage/?search=John+10:28&version=KJV) — And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand.
+- [John 10:29](https://www.biblegateway.com/passage/?search=John+10:29&version=KJV) — My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father’s hand.
+- [John 10:30](https://www.biblegateway.com/passage/?search=John+10:30&version=KJV) — I and my Father are one.
+- [John 10:32](https://www.biblegateway.com/passage/?search=John+10:32&version=KJV) — Many good works have I shewed you from my Father; for which of those works do ye stone me?
+- ◈ [John 10:36](https://www.biblegateway.com/passage/?search=John+10:36&version=KJV) — Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?
+- [John 10:37](https://www.biblegateway.com/passage/?search=John+10:37&version=KJV) — If I do not the works of my Father, believe me not.
+- [John 10:38](https://www.biblegateway.com/passage/?search=John+10:38&version=KJV) — But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him.
+- ◈ [John 11:15](https://www.biblegateway.com/passage/?search=John+11:15&version=KJV) — And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.
+- ◈ [John 11:25](https://www.biblegateway.com/passage/?search=John+11:25&version=KJV) — I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:
+- [John 11:26](https://www.biblegateway.com/passage/?search=John+11:26&version=KJV) — And whosoever liveth and believeth in me shall never die. Believest thou this?
+- [John 11:41](https://www.biblegateway.com/passage/?search=John+11:41&version=KJV) — Father, I thank thee that thou hast heard me.
+- [John 11:42](https://www.biblegateway.com/passage/?search=John+11:42&version=KJV) — And I knew that thou hearest me always: but because of the people which stand by I said it, that they may believe that thou hast sent me.
+- [John 12:7](https://www.biblegateway.com/passage/?search=John+12:7&version=KJV) — Let her alone: against the day of my burying hath she kept this.
+- [John 12:8](https://www.biblegateway.com/passage/?search=John+12:8&version=KJV) — For the poor always ye have with you; but me ye have not always.
+- [John 12:23](https://www.biblegateway.com/passage/?search=John+12:23&version=KJV) — The hour is come, that the Son of man should be glorified.
+- ◈ [John 12:26](https://www.biblegateway.com/passage/?search=John+12:26&version=KJV) — If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honour.
+- [John 12:27](https://www.biblegateway.com/passage/?search=John+12:27&version=KJV) — Now is my soul troubled; and what shall I say? Father, save me from this hour: but for this cause came I unto this hour.
+- [John 12:30](https://www.biblegateway.com/passage/?search=John+12:30&version=KJV) — This voice came not because of me, but for your sakes.
+- [John 12:32](https://www.biblegateway.com/passage/?search=John+12:32&version=KJV) — And I, if I be lifted up from the earth, will draw all men unto me.
+- [John 12:44](https://www.biblegateway.com/passage/?search=John+12:44&version=KJV) — He that believeth on me, believeth not on me, but on him that sent me.
+- [John 12:45](https://www.biblegateway.com/passage/?search=John+12:45&version=KJV) — And he that seeth me seeth him that sent me.
+- ◈ [John 12:46](https://www.biblegateway.com/passage/?search=John+12:46&version=KJV) — I am come a light into the world, that whosoever believeth on me should not abide in darkness.
+- [John 12:47](https://www.biblegateway.com/passage/?search=John+12:47&version=KJV) — And if any man hear my words, and believe not, I judge him not: for I came not to judge the world, but to save the world.
+- [John 12:48](https://www.biblegateway.com/passage/?search=John+12:48&version=KJV) — He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day.
+- [John 12:49](https://www.biblegateway.com/passage/?search=John+12:49&version=KJV) — For I have not spoken of myself; but the Father which sent me, he gave me a commandment, what I should say, and what I should speak.
+- [John 12:50](https://www.biblegateway.com/passage/?search=John+12:50&version=KJV) — And I know that his commandment is life everlasting: whatsoever I speak therefore, even as the Father said unto me, so I speak.
+- [John 13:8](https://www.biblegateway.com/passage/?search=John+13:8&version=KJV) — If I wash thee not, thou hast no part with me.
+- [John 13:12](https://www.biblegateway.com/passage/?search=John+13:12&version=KJV) — Know ye what I have done to you?
+- ◈ [John 13:13](https://www.biblegateway.com/passage/?search=John+13:13&version=KJV) — Ye call me Master and Lord: and ye say well; for so I am.
+- [John 13:14](https://www.biblegateway.com/passage/?search=John+13:14&version=KJV) — If I then, your Lord and Master, have washed your feet; ye also ought to wash one another’s feet.
+- [John 13:15](https://www.biblegateway.com/passage/?search=John+13:15&version=KJV) — For I have given you an example, that ye should do as I have done to you.
+- [John 13:18](https://www.biblegateway.com/passage/?search=John+13:18&version=KJV) — I speak not of you all: I know whom I have chosen: but that the scripture may be fulfilled, He that eateth bread with me hath lifted up his heel against me.
+- ◈ [John 13:19](https://www.biblegateway.com/passage/?search=John+13:19&version=KJV) — Now I tell you before it come, that, when it is come to pass, ye may believe that I am he.
+- [John 13:20](https://www.biblegateway.com/passage/?search=John+13:20&version=KJV) — Verily, verily, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me.
+- [John 13:21](https://www.biblegateway.com/passage/?search=John+13:21&version=KJV) — Verily, verily, I say unto you, that one of you shall betray me.
+- ◈ [John 13:33](https://www.biblegateway.com/passage/?search=John+13:33&version=KJV) — Little children, yet a little while I am with you. Ye shall seek me: and as I said unto the Jews, Whither I go, ye cannot come; so now I say to you.
+- [John 13:34](https://www.biblegateway.com/passage/?search=John+13:34&version=KJV) — A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.
+- [John 13:35](https://www.biblegateway.com/passage/?search=John+13:35&version=KJV) — By this shall all men know that ye are my disciples, if ye have love one to another.
+- [John 13:36](https://www.biblegateway.com/passage/?search=John+13:36&version=KJV) — Whither I go, thou canst not follow me now; but thou shalt follow me afterwards.
+- [John 13:38](https://www.biblegateway.com/passage/?search=John+13:38&version=KJV) — Wilt thou lay down thy life for my sake? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice.
+- [John 14:1](https://www.biblegateway.com/passage/?search=John+14:1&version=KJV) — Let not your heart be troubled: ye believe in God, believe also in me.
+- [John 14:2](https://www.biblegateway.com/passage/?search=John+14:2&version=KJV) — In my Father’s house are many mansions: if it were not so, I would have told you. I go to prepare a place for you.
+- ◈ [John 14:3](https://www.biblegateway.com/passage/?search=John+14:3&version=KJV) — And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there ye may be also.
+- [John 14:4](https://www.biblegateway.com/passage/?search=John+14:4&version=KJV) — And whither I go ye know, and the way ye know.
+- ◈ [John 14:6](https://www.biblegateway.com/passage/?search=John+14:6&version=KJV) — I am the way, the truth, and the life: no man cometh unto the Father, but by me.
+- [John 14:7](https://www.biblegateway.com/passage/?search=John+14:7&version=KJV) — If ye had known me, ye should have known my Father also: and from henceforth ye know him, and have seen him.
+- [John 14:9](https://www.biblegateway.com/passage/?search=John+14:9&version=KJV) — Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?
+- ◈ [John 14:10](https://www.biblegateway.com/passage/?search=John+14:10&version=KJV) — Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works.
+- ◈ [John 14:11](https://www.biblegateway.com/passage/?search=John+14:11&version=KJV) — Believe me that I am in the Father, and the Father in me: or else believe me for the very works’ sake.
+- [John 14:12](https://www.biblegateway.com/passage/?search=John+14:12&version=KJV) — Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.
+- [John 14:13](https://www.biblegateway.com/passage/?search=John+14:13&version=KJV) — And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son.
+- [John 14:14](https://www.biblegateway.com/passage/?search=John+14:14&version=KJV) — If ye shall ask any thing in my name, I will do it.
+- [John 14:15](https://www.biblegateway.com/passage/?search=John+14:15&version=KJV) — If ye love me, keep my commandments.
+- [John 14:16](https://www.biblegateway.com/passage/?search=John+14:16&version=KJV) — And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;
+- [John 14:18](https://www.biblegateway.com/passage/?search=John+14:18&version=KJV) — I will not leave you comfortless: I will come to you.
+- [John 14:19](https://www.biblegateway.com/passage/?search=John+14:19&version=KJV) — Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also.
+- ◈ [John 14:20](https://www.biblegateway.com/passage/?search=John+14:20&version=KJV) — At that day ye shall know that I am in my Father, and ye in me, and I in you.
+- [John 14:21](https://www.biblegateway.com/passage/?search=John+14:21&version=KJV) — He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him.
+- [John 14:23](https://www.biblegateway.com/passage/?search=John+14:23&version=KJV) — If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.
+- [John 14:24](https://www.biblegateway.com/passage/?search=John+14:24&version=KJV) — He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father’s which sent me.
+- [John 14:26](https://www.biblegateway.com/passage/?search=John+14:26&version=KJV) — But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.
+- [John 14:27](https://www.biblegateway.com/passage/?search=John+14:27&version=KJV) — Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.
+- [John 14:28](https://www.biblegateway.com/passage/?search=John+14:28&version=KJV) — Ye have heard how I said unto you, I go away, and come again unto you. If ye loved me, ye would rejoice, because I said, I go unto the Father: for my Father is greater than I.
+- [John 14:30](https://www.biblegateway.com/passage/?search=John+14:30&version=KJV) — Hereafter I will not talk much with you: for the prince of this world cometh, and hath nothing in me.
+- [John 14:31](https://www.biblegateway.com/passage/?search=John+14:31&version=KJV) — But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence.
+- ◈ [John 15:1](https://www.biblegateway.com/passage/?search=John+15:1&version=KJV) — I am the true vine, and my Father is the husbandman.
+- [John 15:2](https://www.biblegateway.com/passage/?search=John+15:2&version=KJV) — Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit.
+- [John 15:4](https://www.biblegateway.com/passage/?search=John+15:4&version=KJV) — Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me.
+- ◈ [John 15:5](https://www.biblegateway.com/passage/?search=John+15:5&version=KJV) — I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.
+- [John 15:6](https://www.biblegateway.com/passage/?search=John+15:6&version=KJV) — If a man abide not in me, he is cast forth as a branch, and is withered; and men gather them, and cast them into the fire, and they are burned.
+- [John 15:7](https://www.biblegateway.com/passage/?search=John+15:7&version=KJV) — If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.
+- [John 15:8](https://www.biblegateway.com/passage/?search=John+15:8&version=KJV) — Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples.
+- [John 15:9](https://www.biblegateway.com/passage/?search=John+15:9&version=KJV) — As the Father hath loved me, so have I loved you: continue ye in my love.
+- [John 15:10](https://www.biblegateway.com/passage/?search=John+15:10&version=KJV) — If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love.
+- [John 15:11](https://www.biblegateway.com/passage/?search=John+15:11&version=KJV) — These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.
+- [John 15:12](https://www.biblegateway.com/passage/?search=John+15:12&version=KJV) — This is my commandment, That ye love one another, as I have loved you.
+- [John 15:14](https://www.biblegateway.com/passage/?search=John+15:14&version=KJV) — Ye are my friends, if ye do whatsoever I command you.
+- [John 15:15](https://www.biblegateway.com/passage/?search=John+15:15&version=KJV) — Henceforth I call you not servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I have heard of my Father I have made known unto you.
+- [John 15:16](https://www.biblegateway.com/passage/?search=John+15:16&version=KJV) — Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you.
+- [John 15:18](https://www.biblegateway.com/passage/?search=John+15:18&version=KJV) — If the world hate you, ye know that it hated me before it hated you.
+- [John 15:19](https://www.biblegateway.com/passage/?search=John+15:19&version=KJV) — If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.
+- [John 15:20](https://www.biblegateway.com/passage/?search=John+15:20&version=KJV) — Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.
+- [John 15:21](https://www.biblegateway.com/passage/?search=John+15:21&version=KJV) — But all these things will they do unto you for my name’s sake, because they know not him that sent me.
+- [John 15:22](https://www.biblegateway.com/passage/?search=John+15:22&version=KJV) — If I had not come and spoken unto them, they had not had sin: but now they have no cloke for their sin.
+- [John 15:23](https://www.biblegateway.com/passage/?search=John+15:23&version=KJV) — He that hateth me hateth my Father also.
+- [John 15:24](https://www.biblegateway.com/passage/?search=John+15:24&version=KJV) — If I had not done among them the works which none other man did, they had not had sin: but now have they both seen and hated both me and my Father.
+- [John 15:25](https://www.biblegateway.com/passage/?search=John+15:25&version=KJV) — But this cometh to pass, that the word might be fulfilled that is written in their law, They hated me without a cause.
+- [John 15:26](https://www.biblegateway.com/passage/?search=John+15:26&version=KJV) — But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me:
+- [John 15:27](https://www.biblegateway.com/passage/?search=John+15:27&version=KJV) — And ye also shall bear witness, because ye have been with me from the beginning.
+- [John 16:3](https://www.biblegateway.com/passage/?search=John+16:3&version=KJV) — And these things will they do unto you, because they have not known the Father, nor me.
+- [John 16:4](https://www.biblegateway.com/passage/?search=John+16:4&version=KJV) — But these things have I told you, that when the time shall come, ye may remember that I told you of them. And these things I said not unto you at the beginning, because I was with you.
+- [John 16:5](https://www.biblegateway.com/passage/?search=John+16:5&version=KJV) — But now I go my way to him that sent me; and none of you asketh me, Whither goest thou?
+- [John 16:7](https://www.biblegateway.com/passage/?search=John+16:7&version=KJV) — Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you.
+- [John 16:9](https://www.biblegateway.com/passage/?search=John+16:9&version=KJV) — Of sin, because they believe not on me;
+- [John 16:10](https://www.biblegateway.com/passage/?search=John+16:10&version=KJV) — Of righteousness, because I go to my Father, and ye see me no more;
+- [John 16:14](https://www.biblegateway.com/passage/?search=John+16:14&version=KJV) — He shall glorify me: for he shall receive of mine, and shall shew it unto you.
+- [John 16:15](https://www.biblegateway.com/passage/?search=John+16:15&version=KJV) — All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew it unto you.
+- [John 16:16](https://www.biblegateway.com/passage/?search=John+16:16&version=KJV) — A little while, and ye shall not see me: and again, a little while, and ye shall see me, because I go to the Father.
+- [John 16:17](https://www.biblegateway.com/passage/?search=John+16:17&version=KJV) — A little while, and ye shall not see me: and again, a little while, and ye shall see me: and, Because I go to the Father?
+- [John 16:19](https://www.biblegateway.com/passage/?search=John+16:19&version=KJV) — Do ye inquire among yourselves of that I said, A little while, and ye shall not see me: and again, a little while, and ye shall see me?
+- [John 16:22](https://www.biblegateway.com/passage/?search=John+16:22&version=KJV) — And ye now therefore have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man taketh from you.
+- [John 16:23](https://www.biblegateway.com/passage/?search=John+16:23&version=KJV) — And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give it you.
+- [John 16:24](https://www.biblegateway.com/passage/?search=John+16:24&version=KJV) — Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be full.
+- [John 16:26](https://www.biblegateway.com/passage/?search=John+16:26&version=KJV) — At that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you:
+- [John 16:27](https://www.biblegateway.com/passage/?search=John+16:27&version=KJV) — For the Father himself loveth you, because ye have loved me, and have believed that I came out from God.
+- [John 16:28](https://www.biblegateway.com/passage/?search=John+16:28&version=KJV) — I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father.
+- ◈ [John 16:32](https://www.biblegateway.com/passage/?search=John+16:32&version=KJV) — Behold, the hour cometh, yea, is now come, that ye shall be scattered, every man to his own, and shall leave me alone: and yet I am not alone, because the Father is with me.
+- [John 16:33](https://www.biblegateway.com/passage/?search=John+16:33&version=KJV) — These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.
+- [John 17:1](https://www.biblegateway.com/passage/?search=John+17:1&version=KJV) — Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:
+- [John 17:2](https://www.biblegateway.com/passage/?search=John+17:2&version=KJV) — As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him.
+- [John 17:3](https://www.biblegateway.com/passage/?search=John+17:3&version=KJV) — And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.
+- [John 17:4](https://www.biblegateway.com/passage/?search=John+17:4&version=KJV) — I have glorified thee on the earth: I have finished the work which thou gavest me to do.
+- [John 17:5](https://www.biblegateway.com/passage/?search=John+17:5&version=KJV) — And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was.
+- [John 17:6](https://www.biblegateway.com/passage/?search=John+17:6&version=KJV) — I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word.
+- [John 17:7](https://www.biblegateway.com/passage/?search=John+17:7&version=KJV) — Now they have known that all things whatsoever thou hast given me are of thee.
+- [John 17:8](https://www.biblegateway.com/passage/?search=John+17:8&version=KJV) — For I have given unto them the words which thou gavest me; and they have received them, and have known surely that I came out from thee, and they have believed that thou didst send me.
+- [John 17:9](https://www.biblegateway.com/passage/?search=John+17:9&version=KJV) — I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine.
+- ◈ [John 17:10](https://www.biblegateway.com/passage/?search=John+17:10&version=KJV) — And all mine are thine, and thine are mine; and I am glorified in them.
+- ◈ [John 17:11](https://www.biblegateway.com/passage/?search=John+17:11&version=KJV) — And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we are.
+- [John 17:12](https://www.biblegateway.com/passage/?search=John+17:12&version=KJV) — While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.
+- [John 17:13](https://www.biblegateway.com/passage/?search=John+17:13&version=KJV) — And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves.
+- ◈ [John 17:14](https://www.biblegateway.com/passage/?search=John+17:14&version=KJV) — I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world.
+- [John 17:15](https://www.biblegateway.com/passage/?search=John+17:15&version=KJV) — I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil.
+- ◈ [John 17:16](https://www.biblegateway.com/passage/?search=John+17:16&version=KJV) — They are not of the world, even as I am not of the world.
+- [John 17:18](https://www.biblegateway.com/passage/?search=John+17:18&version=KJV) — As thou hast sent me into the world, even so have I also sent them into the world.
+- [John 17:19](https://www.biblegateway.com/passage/?search=John+17:19&version=KJV) — And for their sakes I sanctify myself, that they also might be sanctified through the truth.
+- [John 17:20](https://www.biblegateway.com/passage/?search=John+17:20&version=KJV) — Neither pray I for these alone, but for them also which shall believe on me through their word;
+- [John 17:21](https://www.biblegateway.com/passage/?search=John+17:21&version=KJV) — That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.
+- [John 17:22](https://www.biblegateway.com/passage/?search=John+17:22&version=KJV) — And the glory which thou gavest me I have given them; that they may be one, even as we are one:
+- [John 17:23](https://www.biblegateway.com/passage/?search=John+17:23&version=KJV) — I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.
+- ◈ [John 17:24](https://www.biblegateway.com/passage/?search=John+17:24&version=KJV) — Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world.
+- [John 17:25](https://www.biblegateway.com/passage/?search=John+17:25&version=KJV) — O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me.
+- [John 17:26](https://www.biblegateway.com/passage/?search=John+17:26&version=KJV) — And I have declared unto them thy name, and will declare it: that the love wherewith thou hast loved me may be in them, and I in them.
+- ◈ [John 18:5](https://www.biblegateway.com/passage/?search=John+18:5&version=KJV) — I am he.
+- ◈ [John 18:8](https://www.biblegateway.com/passage/?search=John+18:8&version=KJV) — I have told you that I am he: if therefore ye seek me, let these go their way:
+- [John 18:9](https://www.biblegateway.com/passage/?search=John+18:9&version=KJV) — Of them which thou gavest me have I lost none.
+- [John 18:11](https://www.biblegateway.com/passage/?search=John+18:11&version=KJV) — Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?
+- [John 18:20](https://www.biblegateway.com/passage/?search=John+18:20&version=KJV) — I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing.
+- [John 18:21](https://www.biblegateway.com/passage/?search=John+18:21&version=KJV) — Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said.
+- [John 18:23](https://www.biblegateway.com/passage/?search=John+18:23&version=KJV) — If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?
+- [John 18:36](https://www.biblegateway.com/passage/?search=John+18:36&version=KJV) — My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence.
+- ◈ [John 18:37](https://www.biblegateway.com/passage/?search=John+18:37&version=KJV) — Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice.
+- [John 19:11](https://www.biblegateway.com/passage/?search=John+19:11&version=KJV) — Thou couldest have no power at all against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin.
+- [John 19:28](https://www.biblegateway.com/passage/?search=John+19:28&version=KJV) — I thirst.
+- ◈ [John 20:17](https://www.biblegateway.com/passage/?search=John+20:17&version=KJV) — Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God.
+- [John 20:21](https://www.biblegateway.com/passage/?search=John+20:21&version=KJV) — Peace be unto you: as my Father hath sent me, even so send I you.
+- [John 20:27](https://www.biblegateway.com/passage/?search=John+20:27&version=KJV) — Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing.
+- [John 20:29](https://www.biblegateway.com/passage/?search=John+20:29&version=KJV) — Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed.
+- [John 21:15](https://www.biblegateway.com/passage/?search=John+21:15&version=KJV) — Simon, son of Jonas, lovest thou me more than these? Feed my lambs.
+- [John 21:16](https://www.biblegateway.com/passage/?search=John+21:16&version=KJV) — Simon, son of Jonas, lovest thou me? Feed my sheep.
+- [John 21:17](https://www.biblegateway.com/passage/?search=John+21:17&version=KJV) — Simon, son of Jonas, lovest thou me? Feed my sheep.
+- [John 21:19](https://www.biblegateway.com/passage/?search=John+21:19&version=KJV) — Follow me.
+- [John 21:22](https://www.biblegateway.com/passage/?search=John+21:22&version=KJV) — If I will that he tarry till I come, what is that to thee? follow thou me.
+
+## Acts (17 sayings, 4 ◈)
+
+- [Acts 1:4](https://www.biblegateway.com/passage/?search=Acts+1:4&version=KJV) — but wait for the promise of the Father, which, ye have heard of me.
+- [Acts 1:8](https://www.biblegateway.com/passage/?search=Acts+1:8&version=KJV) — But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.
+- [Acts 9:4](https://www.biblegateway.com/passage/?search=Acts+9:4&version=KJV) — Saul, Saul, why persecutest thou me?
+- ◈ [Acts 9:5](https://www.biblegateway.com/passage/?search=Acts+9:5&version=KJV) — I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks.
+- [Acts 9:15](https://www.biblegateway.com/passage/?search=Acts+9:15&version=KJV) — Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:
+- [Acts 9:16](https://www.biblegateway.com/passage/?search=Acts+9:16&version=KJV) — For I will shew him how great things he must suffer for my name’s sake.
+- ◈ [Acts 18:10](https://www.biblegateway.com/passage/?search=Acts+18:10&version=KJV) — For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city.
+- [Acts 22:7](https://www.biblegateway.com/passage/?search=Acts+22:7&version=KJV) — Saul, Saul, why persecutest thou me?
+- ◈ [Acts 22:8](https://www.biblegateway.com/passage/?search=Acts+22:8&version=KJV) — I am Jesus of Nazareth, whom thou persecutest.
+- [Acts 22:18](https://www.biblegateway.com/passage/?search=Acts+22:18&version=KJV) — Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me.
+- [Acts 22:21](https://www.biblegateway.com/passage/?search=Acts+22:21&version=KJV) — Depart: for I will send thee far hence unto the Gentiles.
+- [Acts 23:11](https://www.biblegateway.com/passage/?search=Acts+23:11&version=KJV) — Be of good cheer, Paul: for as thou hast testified of me in Jerusalem, so must thou bear witness also at Rome.
+- [Acts 26:14](https://www.biblegateway.com/passage/?search=Acts+26:14&version=KJV) — Saul, Saul, why persecutest thou me? it is hard for thee to kick against the pricks.
+- ◈ [Acts 26:15](https://www.biblegateway.com/passage/?search=Acts+26:15&version=KJV) — I am Jesus whom thou persecutest.
+- [Acts 26:16](https://www.biblegateway.com/passage/?search=Acts+26:16&version=KJV) — But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee;
+- [Acts 26:17](https://www.biblegateway.com/passage/?search=Acts+26:17&version=KJV) — Delivering thee from the people, and from the Gentiles, unto whom now I send thee,
+- [Acts 26:18](https://www.biblegateway.com/passage/?search=Acts+26:18&version=KJV) — To open their eyes, and to turn them from darkness to light, and from the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me.
+
+## 1 Corinthians (2 sayings, 0 ◈)
+
+- [1 Corinthians 11:24](https://www.biblegateway.com/passage/?search=1+Corinthians+11:24&version=KJV) — Take, eat: this is my body, which is broken for you: this do in remembrance of me.
+- [1 Corinthians 11:25](https://www.biblegateway.com/passage/?search=1+Corinthians+11:25&version=KJV) — This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.
+
+## 2 Corinthians (1 sayings, 0 ◈)
+
+- [2 Corinthians 12:9](https://www.biblegateway.com/passage/?search=2+Corinthians+12:9&version=KJV) — My grace is sufficient for thee: for my strength is made perfect in weakness.
+
+## Revelation (31 sayings, 7 ◈)
+
+- ◈ [Revelation 1:8](https://www.biblegateway.com/passage/?search=Revelation+1:8&version=KJV) — I am Alpha and Omega, the beginning and the ending, which is, and which was, and which is to come, the Almighty.
+- ◈ [Revelation 1:11](https://www.biblegateway.com/passage/?search=Revelation+1:11&version=KJV) — I am Alpha and Omega, the first and the last: and, What thou seest, write in a book, and send it unto the seven churches which are in Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea.
+- ◈ [Revelation 1:17](https://www.biblegateway.com/passage/?search=Revelation+1:17&version=KJV) — Fear not; I am the first and the last:
+- ◈ [Revelation 1:18](https://www.biblegateway.com/passage/?search=Revelation+1:18&version=KJV) — I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.
+- [Revelation 1:20](https://www.biblegateway.com/passage/?search=Revelation+1:20&version=KJV) — The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches.
+- [Revelation 2:3](https://www.biblegateway.com/passage/?search=Revelation+2:3&version=KJV) — And hast borne, and hast patience, and for my name’s sake hast laboured, and hast not fainted.
+- [Revelation 2:5](https://www.biblegateway.com/passage/?search=Revelation+2:5&version=KJV) — Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent.
+- [Revelation 2:13](https://www.biblegateway.com/passage/?search=Revelation+2:13&version=KJV) — I know thy works, and where thou dwellest, even where Satan’s seat is: and thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas was my faithful martyr, who was slain among you, where Satan dwelleth.
+- [Revelation 2:16](https://www.biblegateway.com/passage/?search=Revelation+2:16&version=KJV) — Repent; or else I will come unto thee quickly, and will fight against them with the sword of my mouth.
+- [Revelation 2:20](https://www.biblegateway.com/passage/?search=Revelation+2:20&version=KJV) — Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.
+- ◈ [Revelation 2:23](https://www.biblegateway.com/passage/?search=Revelation+2:23&version=KJV) — And I will kill her children with death; and all the churches shall know that I am he which searcheth the reins and hearts: and I will give unto every one of you according to your works.
+- [Revelation 2:25](https://www.biblegateway.com/passage/?search=Revelation+2:25&version=KJV) — But that which ye have already hold fast till I come.
+- [Revelation 2:26](https://www.biblegateway.com/passage/?search=Revelation+2:26&version=KJV) — And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:
+- [Revelation 2:27](https://www.biblegateway.com/passage/?search=Revelation+2:27&version=KJV) — And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father.
+- [Revelation 3:1](https://www.biblegateway.com/passage/?search=Revelation+3:1&version=KJV) — And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead.
+- [Revelation 3:3](https://www.biblegateway.com/passage/?search=Revelation+3:3&version=KJV) — Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee.
+- [Revelation 3:4](https://www.biblegateway.com/passage/?search=Revelation+3:4&version=KJV) — Thou hast a few names even in Sardis which have not defiled their garments; and they shall walk with me in white: for they are worthy.
+- [Revelation 3:5](https://www.biblegateway.com/passage/?search=Revelation+3:5&version=KJV) — He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels.
+- [Revelation 3:8](https://www.biblegateway.com/passage/?search=Revelation+3:8&version=KJV) — I know thy works: behold, I have set before thee an open door, and no man can shut it: for thou hast a little strength, and hast kept my word, and hast not denied my name.
+- [Revelation 3:10](https://www.biblegateway.com/passage/?search=Revelation+3:10&version=KJV) — Because thou hast kept the word of my patience, I also will keep thee from the hour of temptation, which shall come upon all the world, to try them that dwell upon the earth.
+- [Revelation 3:11](https://www.biblegateway.com/passage/?search=Revelation+3:11&version=KJV) — Behold, I come quickly: hold that fast which thou hast, that no man take thy crown.
+- [Revelation 3:12](https://www.biblegateway.com/passage/?search=Revelation+3:12&version=KJV) — Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name.
+- [Revelation 3:16](https://www.biblegateway.com/passage/?search=Revelation+3:16&version=KJV) — So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth.
+- [Revelation 3:18](https://www.biblegateway.com/passage/?search=Revelation+3:18&version=KJV) — I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see.
+- [Revelation 3:20](https://www.biblegateway.com/passage/?search=Revelation+3:20&version=KJV) — Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.
+- [Revelation 3:21](https://www.biblegateway.com/passage/?search=Revelation+3:21&version=KJV) — To him that overcometh will I grant to sit with me in my throne, even as I also overcame, and am set down with my Father in his throne.
+- [Revelation 22:7](https://www.biblegateway.com/passage/?search=Revelation+22:7&version=KJV) — Behold, I come quickly: blessed is he that keepeth the sayings of the prophecy of this book.
+- [Revelation 22:12](https://www.biblegateway.com/passage/?search=Revelation+22:12&version=KJV) — And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be.
+- ◈ [Revelation 22:13](https://www.biblegateway.com/passage/?search=Revelation+22:13&version=KJV) — I am Alpha and Omega, the beginning and the end, the first and the last.
+- ◈ [Revelation 22:16](https://www.biblegateway.com/passage/?search=Revelation+22:16&version=KJV) — I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star.
+- [Revelation 22:20](https://www.biblegateway.com/passage/?search=Revelation+22:20&version=KJV) — Surely I come quickly.
+
+---
+
+> [!note] Reading this note
+> Use Obsidian's in-file search (or `Ctrl/Cmd+G`) for "Son of man", "my Father", "come unto me" to pull a thread out of the catalog without leaving the note. The ◈ flags are the I Am Thread of the [[Devotional Threads]].
+
+## Go deeper
+- [[Corpus Anatomy]] — how this list was made, and its limits
+- [[Study Plan]] — the four-week reading of exactly this list
+- [[Devotional Threads]] — five thematic subsets of it
+
+## Sources
+- [Self-reference page, live](https://0xsero.github.io/bible-quotes-wiki/self-references.html)
+- [Data file (repo)](https://github.com/0xSero/bible-quotes-wiki/blob/main/data/jesus-self-quotes.js)
+- [KJV source](https://github.com/NolanLT/kjv-bible)
